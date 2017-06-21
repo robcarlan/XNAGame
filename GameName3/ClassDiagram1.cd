@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Input: &#xD;&#xA;&#xD;&#xA;	forward button pressed =&gt; &#xD;&#xA;		switch based on state&#xD;&#xA;			if game state then try and move character forward&#xD;&#xA;				depends on certain states of character. i.e are they frozen&#xD;&#xA;	&#xD;&#xA;	Mouse Click =&gt;&#xD;&#xA;		game state =&gt;&#xD;&#xA;			get selected object and change behaviour depending on state&#xD;&#xA;				i.e. are we casting a spell / is the selection valid&#xD;&#xA;&#xD;&#xA;Input stage - condition through each state - on 'w' psuh a CharacterMoveForward event (common to all charcter entities) - Actions for all intents, i.e. Interact, weapon, cast, stop cast etc.&#xD;&#xA;&#xD;&#xA;Update stage - process all events for each entity (CharacterMoveForward would be called by AI etc aswell, and will attempt to move forward (which may fail))">
+    <Position X="2" Y="7.75" Height="3.219" Width="6.294" />
+  </Comment>
+  <Class Name="GameName3.Camera" Collapsed="true">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Constants" Collapsed="true">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.LibraryBase&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAADAgAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\Libraries\LibraryBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.ManagerBase&lt;T&gt;" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAQAAAAAAAABAAAAAAAAIAAAAAQAAAAA=</HashCode>
+      <FileName>Manager\ManagerBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Program" Collapsed="true">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Components.BaseComponent" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gEQIAAAAACCAAAIAAAAAAAAAAQACAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\BaseComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameName3.Entities.Components.Render.LinearAnimationComponent" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\Render\LinearAnimationComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Components.Render.RenderComponent" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAACAAAAAAAAAAAAgAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\Render\RenderComponent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameName3.Entities.Components.Render.StaticRenderComponent" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAAAAAAAAAAIAAAAAACAAAARAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\Render\StaticRenderComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Components.Update.InputComponent" Collapsed="true">
+    <Position X="13.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\Update\InputComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Components.Update.UpdateComponent" Collapsed="true">
+    <Position X="10" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\Update\UpdateComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Entity" Collapsed="true">
+    <Position X="1.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAgBCAAACAIAAAAAgAAQAAAAAJAQAAAAA=</HashCode>
+      <FileName>Entities\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameName3.Entities.TileGraphicalEntity" Collapsed="true">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAA=</HashCode>
+      <FileName>Entities\GraphicalEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Entities.Tile" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAiAJAACIgAAAAAAAAAAAAACAABAAAAgA=</HashCode>
+      <FileName>Entities\Tile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Game.Game1" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAkAAAAAAAAxAAACAAAAAAEAAAAAAEABACAAAAAAQ=</HashCode>
+      <FileName>Game\Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Game.GameLoad" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\GameLoad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Game.GameUpdate" Collapsed="true">
+    <Position X="11.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAgAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game\GameUpdate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Render.GameRender" Collapsed="true">
+    <Position X="10" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABZAkEAACSApgQAAAAAAAISWAACACAgIABAAQAAAhsA=</HashCode>
+      <FileName>Render\GameRender.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Manager.Libraries.DictionaryLibrary&lt;K, T&gt;" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAEAADAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\Libraries\DictionaryLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Manager.Libraries.IDDictLibrary&lt;T&gt;" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAADAAQgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\Libraries\IDDictLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Manager.Loading.Loader&lt;T, U&gt;" Collapsed="true">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\Loading\Loader.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Manager.TileManager" Collapsed="true">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Render.SpriteList" Collapsed="true">
+    <Position X="11.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Render\SpriteList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameName3.Render.SpriteListSimple" Collapsed="true">
+    <Position X="13.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Render\SpriteList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameName3.Entities.Components.IComponent" Collapsed="true">
+    <Position X="8.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components\BaseComponent.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameName3.Manager.Loading.ILoadable" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Manager\Loading\ILoadable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

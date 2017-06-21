@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio 12.0\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="12.0">
+ <Targets>
+  <Target Name="C:\Users\PC\Dropbox\MonoGameTest\GameName3\bin\Windows\Debug\GameName3.exe">
+   <Modules>
+    <Module Name="gamename3.exe">
+     <Namespaces>
+      <Namespace Name="GameName3.Entities">
+       <Types>
+        <Type Name="Entity" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Members>
+          <Member Name="#Microsoft.Xna.Framework.IDrawable.Draw(Microsoft.Xna.Framework.GameTime)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="35">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.Draw(GameTime)' and is visible to derived classes.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IDrawable.DrawOrder" Kind="Property" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.get_DrawOrder()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="PropertyGetter" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="40">'Entity.IDrawable.DrawOrder.get()' creates an exception of type 'NotImplementedException', an exception type that should not be raised in a property. If this exception instance might be raised, use a different exception type, convert this property into a method, or change this property's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="40">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.DrawOrder.get()' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IDrawable.Visible" Kind="Property" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.get_Visible()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="PropertyGetter" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="49">'Entity.IDrawable.Visible.get()' creates an exception of type 'NotImplementedException', an exception type that should not be raised in a property. If this exception instance might be raised, use a different exception type, convert this property into a method, or change this property's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="49">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.Visible.get()' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IUpdateable.Enabled" Kind="Property" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.get_Enabled()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="PropertyGetter" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="60">'Entity.IUpdateable.Enabled.get()' creates an exception of type 'NotImplementedException', an exception type that should not be raised in a property. If this exception instance might be raised, use a different exception type, convert this property into a method, or change this property's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="60">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.Enabled.get()' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IUpdateable.Update(Microsoft.Xna.Framework.GameTime)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="68">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.Update(GameTime)' and is visible to derived classes.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IUpdateable.UpdateOrder" Kind="Property" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.get_UpdateOrder()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="PropertyGetter" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="73">'Entity.IUpdateable.UpdateOrder.get()' creates an exception of type 'NotImplementedException', an exception type that should not be raised in a property. If this exception instance might be raised, use a different exception type, convert this property into a method, or change this property's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="73">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.UpdateOrder.get()' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#System.IDisposable.Dispose()" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Messages>
+            <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+             <Issue Name="NoAllowedExceptions" Certainty="90" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="30">'Entity.IDisposable.Dispose()' creates an exception of type 'NotImplementedException'. Exceptions should not be raised in this type of method. If this exception instance might be raised, change this method's logic so it no longer raises an exception.</Issue>
+            </Message>
+            <Message TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+             <Issue Name="DisposeImplementation" Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="29">Modify 'Entity.IDisposable.Dispose()' so that it calls Dispose(true), then calls GC.SuppressFinalize on the current object instance ('this' or 'Me' in Visual Basic), and then returns.</Issue>
+             <Issue Name="RenameDispose" Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="29">Rename 'Entity.IDisposable.Dispose()' to 'Dispose' and ensure that it is declared as public and sealed.</Issue>
+            </Message>
+            <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+             <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="29">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDisposable.Dispose()' and is visible to derived classes.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IDrawable.DrawOrderChanged" Kind="Event" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.add_DrawOrderChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="44">'Entity.IDrawable.DrawOrderChanged.add(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="44">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.DrawOrderChanged.add(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.remove_DrawOrderChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="45">'Entity.IDrawable.DrawOrderChanged.remove(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="45">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.DrawOrderChanged.remove(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IDrawable.VisibleChanged" Kind="Event" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.add_VisibleChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="53">'Entity.IDrawable.VisibleChanged.add(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="53">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.VisibleChanged.add(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+            <Accessor Name="#Microsoft.Xna.Framework.IDrawable.remove_VisibleChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="54">'Entity.IDrawable.VisibleChanged.remove(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="54">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IDrawable.VisibleChanged.remove(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IUpdateable.EnabledChanged" Kind="Event" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.add_EnabledChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="64">'Entity.IUpdateable.EnabledChanged.add(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="64">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.EnabledChanged.add(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.remove_EnabledChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="65">'Entity.IUpdateable.EnabledChanged.remove(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="65">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.EnabledChanged.remove(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+          <Member Name="#Microsoft.Xna.Framework.IUpdateable.UpdateOrderChanged" Kind="Event" Static="False" Accessibility="Private" ExternallyVisible="True">
+           <Accessors>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.add_UpdateOrderChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="77">'Entity.IUpdateable.UpdateOrderChanged.add(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="77">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.UpdateOrderChanged.add(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+            <Accessor Name="#Microsoft.Xna.Framework.IUpdateable.remove_UpdateOrderChanged(System.EventHandler`1&lt;System.EventArgs&gt;)" Kind="Method" Static="False" Accessibility="Private" ExternallyVisible="True">
+             <Messages>
+              <Message TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="Breaking">
+               <Issue Name="HasAllowedExceptions" Certainty="90" Level="Warning" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="78">'Entity.IUpdateable.UpdateOrderChanged.remove(EventHandler&lt;EventArgs&gt;)' creates an exception of type 'NotImplementedException', an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Issue>
+              </Message>
+              <Message TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033" Status="Active" Created="2015-01-02 23:23:07Z" FixCategory="NonBreaking">
+               <Issue Certainty="95" Level="Error" Path="c:\Users\PC\Dropbox\MonoGameTest\GameName3\Entities" File="Entity.cs" Line="78">Make 'Entity' sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of 'IUpdateable.UpdateOrderChanged.remove(EventHandler&lt;EventArgs&gt;)' and is visible to derived classes.</Issue>
+              </Message>
+             </Messages>
+            </Accessor>
+           </Accessors>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="DoNotRaiseExceptionsInUnexpectedLocations" Category="Microsoft.Design" CheckId="CA1065">
+   <Name>Do not raise exceptions in unexpected locations</Name>
+   <Description>Do not explicitly raise exceptions from unexpected locations. There are some methods, such as Equals and GetHashCode, which users do not expect to raise exceptions. Therefore calls to these methods are not commonly wrapped in try catch blocks.</Description>
+   <Resolution Name="HasAllowedExceptions">{0} creates an exception of type {1}, an exception type that should not be raised in this type of method. If this exception instance might be raised, either use a different exception type or change this method's logic so that it no longer raises an exception.</Resolution>
+   <Resolution Name="NoAllowedExceptions">{0} creates an exception of type {1}. Exceptions should not be raised in this type of method. If this exception instance might be raised, change this method's logic so it no longer raises an exception.</Resolution>
+   <Resolution Name="PropertyGetter">{0} creates an exception of type {1}, an exception type that should not be raised in a property. If this exception instance might be raised, use a different exception type, convert this property into a method, or change this property's logic so that it no longer raises an exception.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/bb386039.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="90">Error, Warning</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementIDisposableCorrectly" Category="Microsoft.Design" CheckId="CA1063">
+   <Name>Implement IDisposable correctly</Name>
+   <Description>All IDisposable types should implement the Dispose pattern correctly.</Description>
+   <Resolution Name="DisposeImplementation">Modify {0} so that it calls Dispose(true), then calls GC.SuppressFinalize on the current object instance ('this' or 'Me' in Visual Basic), and then returns.</Resolution>
+   <Resolution Name="RenameDispose">Rename {0} to 'Dispose' and ensure that it is declared as public and sealed.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms244737.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+  <Rule TypeName="InterfaceMethodsShouldBeCallableByChildTypes" Category="Microsoft.Design" CheckId="CA1033">
+   <Name>Interface methods should be callable by child types</Name>
+   <Description>Explicit method implementations are defined with private accessibility. Classes that derive from classes with explicit method implementations and choose to re-declare them on the class will not be able to call into the base class implementation unless the base class has provided an alternate method with appropriate accessibility. When overriding a base class method that has been hidden by explicit interface implementation, in order to call into the base class implementation, a derived class must cast the base pointer to the relevant interface. When calling through this reference, however, the derived class implementation will actually be invoked, resulting in recursion and an eventual stack overflow.</Description>
+   <Resolution Name="Default">Make {0} sealed (a breaking change if this class has previously shipped), implement the method non-explicitly, or implement a new method that exposes the functionality of {1} and is visible to derived classes.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182153.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">Error</MessageLevel>
+   <File Name="designrules.dll" Version="12.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Category</String>
+  <String Key="Certainty">Certainty</String>
+  <String Key="CollapseAll">Collapse All</String>
+  <String Key="CheckId">Check Id</String>
+  <String Key="Error">Error</String>
+  <String Key="Errors">error(s)</String>
+  <String Key="ExpandAll">Expand All</String>
+  <String Key="Help">Help</String>
+  <String Key="Line">Line</String>
+  <String Key="Messages">message(s)</String>
+  <String Key="LocationNotStoredInPdb">[Location not stored in Pdb]</String>
+  <String Key="Project">Project</String>
+  <String Key="Resolution">Resolution</String>
+  <String Key="Rule">Rule</String>
+  <String Key="RuleFile">Rule File</String>
+  <String Key="RuleDescription">Rule Description</String>
+  <String Key="Source">Source</String>
+  <String Key="Status">Status</String>
+  <String Key="Target">Target</String>
+  <String Key="Warning">Warning</String>
+  <String Key="Warnings">warning(s)</String>
+  <String Key="ReportTitle">Code Analysis Report</String>
+ </Localized>
+</FxCopReport>

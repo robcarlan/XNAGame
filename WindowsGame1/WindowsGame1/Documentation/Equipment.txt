@@ -1,0 +1,20 @@
+﻿Sets of equipment for each combat style. Divided into general tiers, which become harder to acquire, but better
+Multiple sets for the same combat style, each with different bonuses. i.e more mana / more spell power
+each item drop has a generated quality, similar to terraria. Higher quality becomes increasingly rare, so the player will 
+never have a full set of the best quality gear.
+
+Item Sets
+
+Ranged:
+	Leather / Dragonhide / Darkhide / Stitched / Chitin / 
+Mage:
+	Blessed / Infused  / Mystic / Cloth / Magic / Magicthread / 
+Warrior:
+	Iron / Steel / Mythril / 
+Qualities
+	Crude, Great, Heroic, Perfect, (none), Damaged, Enforced, Weak, 
+	 Weak -> Crude -> (none) -> Strengthened -> Great -> Heroic -> Legendary
+	 10%        20%		  30%       20%            13%       6%          1%
+Equipment slots:
+
+Weapon Types:

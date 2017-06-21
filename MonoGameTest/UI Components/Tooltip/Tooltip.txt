@@ -1,0 +1,6 @@
+﻿Possible additions to the tooltip class:
+an 'advanced' setting which will display more information about the object, i.e a weapons crit chance etc., instead of the primary stats.
+
+colorcode enemy names (friendly)
+transparent background
+tooltip for hovering over a character

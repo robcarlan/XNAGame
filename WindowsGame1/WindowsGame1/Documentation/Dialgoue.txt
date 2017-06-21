@@ -1,0 +1,16 @@
+﻿Tests
+	If variable
+	If has item
+	If quest complete
+	If area explored
+	If killcount
+
+Scripting
+	Each unique npc will have a unique string identifier which relates to certain scripts
+	Scripts can exist for all generic events, i.e. on death, on talk, ai etc.
+
+	Can interact with player through player class. Player class has abstraction for functions such as giveGold() etc.
+	Doodads i.e. levers all have event handlers
+	Level editor can allocate each object that is needed a string identifier, such as "lever01"
+
+	generic scripts for non unique characters, i.e a guard and guardPatrol()

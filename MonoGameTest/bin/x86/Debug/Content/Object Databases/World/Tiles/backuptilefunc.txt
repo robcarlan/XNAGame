@@ -1,0 +1,91 @@
+
+		private void shiftTileCellsDown()
+		{
+			//Load top row
+			//Save Bottom row
+			//6,7,8 -> 3,4,5
+			//3,4,5 -> 0,1,2
+			int columnCtr = 3;
+
+			if (cells[6].contentsChanged == true)
+				saveTileData(6);
+			if (cells[7].contentsChanged == true)
+				saveTileData(7);
+			if (cells[8].contentsChanged == true)
+				saveTileData(8);
+
+			for (columnCtr = 3; columnCtr < 6; columnCtr++)
+			{
+				//cells[columnCtr + 3] = cells[columnCtr];
+				cells[columnCtr + 3].contentsChanged = cells[columnCtr].contentsChanged;
+				cells[columnCtr + 3].CellCoordinates = cells[columnCtr].CellCoordinates;
+				cells[columnCtr + 3].TileCoordinates = cells[columnCtr].TileCoordinates;
+				cells[columnCtr + 3].contentsValid = cells[columnCtr].contentsValid;
+				cells[columnCtr + 3].contents = cells[columnCtr].contents;
+			}
+
+			for (columnCtr = 0; columnCtr < 3; columnCtr++)
+			{
+				//cells[columnCtr + 3] = cells[columnCtr];
+				cells[columnCtr + 3].contentsChanged = cells[columnCtr].contentsChanged;
+				cells[columnCtr + 3].CellCoordinates = cells[columnCtr].CellCoordinates;
+				cells[columnCtr + 3].TileCoordinates = cells[columnCtr].TileCoordinates;
+				cells[columnCtr + 3].contentsValid = cells[columnCtr].contentsValid;
+				cells[columnCtr + 3].contents = cells[columnCtr].contents;
+			}
+
+
+			cells[0].contentsChanged = cells[1].contentsChanged = cells[2].contentsChanged = false;
+			cells[0].contentsValid = cells[1].contentsValid = cells[2].contentsValid = false;
+			cells[2].CellCoordinates.Y--;
+			cells[0].CellCoordinates.Y = cells[1].CellCoordinates.Y = cells[2].CellCoordinates.Y;
+			cells[0].TileCoordinates.Y = cells[0].CellCoordinates.Y * Functions.tilesPerSector;
+			cells[1].TileCoordinates.Y = cells[1].CellCoordinates.Y * Functions.tilesPerSector;
+			cells[2].TileCoordinates.Y = cells[2].CellCoordinates.Y * Functions.tilesPerSector;
+			needsLoad = true;
+			
+		}
+
+		private void shiftTileCellsUp()
+		{
+			//Load bottom row
+			//Save top row
+			//0,1,2 -> 3,4,5
+			//3,4,5 -> 6,7,8
+			int columnCtr = 3;
+
+			if (cells[6].contentsChanged == true)
+				saveTileData(6);
+			if (cells[7].contentsChanged == true)
+				saveTileData(7);
+			if (cells[8].contentsChanged == true)
+				saveTileData(8);
+
+			for (columnCtr = 3; columnCtr < 6; columnCtr++)
+			{
+				//cells[columnCtr - 3] = cells[columnCtr];
+				cells[columnCtr - 3].contentsChanged = cells[columnCtr].contentsChanged;
+				cells[columnCtr - 3].CellCoordinates = cells[columnCtr].CellCoordinates;
+				cells[columnCtr - 3].TileCoordinates = cells[columnCtr].TileCoordinates;
+				cells[columnCtr - 3].contentsValid = cells[columnCtr].contentsValid;
+				cells[columnCtr - 3].contents = cells[columnCtr].contents;
+			}
+
+			for (columnCtr = 6; columnCtr < 9; columnCtr++)
+			{
+				//cells[columnCtr - 3] = cells[columnCtr];
+				cells[columnCtr - 3].contentsChanged = cells[columnCtr].contentsChanged;
+				cells[columnCtr - 3].CellCoordinates = cells[columnCtr].CellCoordinates;
+				cells[columnCtr - 3].TileCoordinates = cells[columnCtr].TileCoordinates;
+				cells[columnCtr - 3].contentsValid = cells[columnCtr].contentsValid;
+				cells[columnCtr - 3].contents = cells[columnCtr].contents;
+			}
+			cells[6].contentsChanged = cells[7].contentsChanged = cells[8].contentsChanged = false;
+			cells[6].contentsValid = cells[7].contentsValid = cells[8].contentsValid = false;
+			cells[8].CellCoordinates.Y++;
+			cells[6].CellCoordinates.Y = cells[7].CellCoordinates.Y = cells[8].CellCoordinates.Y;
+			cells[6].TileCoordinates.Y = cells[6].CellCoordinates.Y * Functions.tilesPerSector;
+			cells[7].TileCoordinates.Y = cells[7].CellCoordinates.Y * Functions.tilesPerSector;
+			cells[8].TileCoordinates.Y = cells[8].CellCoordinates.Y * Functions.tilesPerSector;
+			needsLoad = true;
+		}

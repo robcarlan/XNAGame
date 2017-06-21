@@ -1,0 +1,55 @@
+﻿Ideas for the hero:
+	Exp gain :- level of xp needed grows per level
+		gained xp is multiplied by a factor calculated by difference between levels.
+
+Combat Skills:
+	-Faith
+		Healing skill, after a certain threshold in faith a light is created underneath the player, which grows in strength
+		as the faith skill increases (light is important, especially in dungeons). (Possibly unlocked via talent)
+	-Agility
+		Increases base speed slightly
+
+Abilities:
+	-Ability effectiveness is increased at certain levels
+
+
+Talents:
+	-Multiple trees
+	-Chosen on playstyle
+	-One is chosen early in the game, more can be chosen as the player progresses. Another tree can be selected, which creates
+	a hybrid character, or the main tree can be developed further than normal (for pure characters)
+	-Talents unlock new abilities, or enhance the players skills which are relevant to the tree
+	- A tree is chosen 
+
+	Possible tree styles:
+		Strength / Melee combat
+			Base tree for any melee combat.
+			-Allows competent use of shield / melee weapons
+		Agility / Ranged combat 
+			Agility is used primarily for archers
+			-Unlocks poisons
+			Hybrid with strength for a rogue / ranger character
+		Offensive Magic
+			Caster tree, used primarily for DPS
+			-Unlocks base set of damage spells
+				-Development could lead to specialisation in certain magic schools
+			Hybrid with Agility yields magic arrow spells (Physical + Magic damage)
+			Hybrid with strength gives magic infused weapons 
+		Healing Magic
+			Caster tree, used for a priest playstyle
+			-Unlocks base healing spells / magical enhancements / light based spells
+				-Development largely beneficial in multiplayer
+		Manipulation Magic ( Similar to red magic )
+			Caster tree, not used directly for damage
+			-Unlocks set of spells:
+				-Shields
+				-Enhancements
+				-Slow effects
+				-Summoning?
+
+Non-Combat skills:
+	-Used to help in combat situations and non combat
+	-Can be used to make money
+	-Alchemy
+		-Potions and consumables will be very beneficial
+

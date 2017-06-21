@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blast duck.jpg</Source>
+      <Name>blast duck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\blast duck.xnb</Output>
+      <Time>2011-08-05T15:05:58+01:00</Time>
+    </Item>
+    <Item>
+      <Source>chara01_a.bmp</Source>
+      <Name>chara01_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\chara01_a.xnb</Output>
+      <Time>2011-11-10T16:22:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cave.png</Source>
+      <Name>cave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\cave.xnb</Output>
+      <Time>2011-12-11T16:00:08+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sewer_1.png</Source>
+      <Name>sewer</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\sewer.xnb</Output>
+      <Time>2011-12-14T20:57:28+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\daySample.bmp</Source>
+      <Name>Graphical Effects\daySample</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\daySample.xnb</Output>
+      <Time>2012-01-16T16:20:10+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\UITex.png</Source>
+      <Name>Sprite Content\UITex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\UITex.xnb</Output>
+      <Time>2013-08-07T14:04:49.4306541+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\itemSprites.png</Source>
+      <Name>Sprite Content\itemSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\itemSprites.xnb</Output>
+      <Time>2012-02-12T19:57:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\effectSprites.png</Source>
+      <Name>Sprite Content\effectSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\effectSprites.xnb</Output>
+      <Time>2012-02-16T21:23:12+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\SpellIcons.png</Source>
+      <Name>Sprite Content\SpellIcons</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\SpellIcons.xnb</Output>
+      <Time>2012-02-16T22:28:32+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\WindowSprites.png</Source>
+      <Name>Sprite Content\WindowSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\WindowSprites.xnb</Output>
+      <Time>2012-03-09T18:26:52+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\Particle.png</Source>
+      <Name>Sprite Content\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\Particle.xnb</Output>
+      <Time>2013-07-30T23:45:50.5897062+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\ParticleHard.png</Source>
+      <Name>Sprite Content\ParticleHard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\ParticleHard.xnb</Output>
+      <Time>2012-03-10T16:09:46+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rain.png</Source>
+      <Name>Graphical Effects\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\rain.xnb</Output>
+      <Time>2012-03-12T16:45:44+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rain2.png</Source>
+      <Name>Graphical Effects\rain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\rain2.xnb</Output>
+      <Time>2012-06-01T14:28:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rainSplashImg.png</Source>
+      <Name>Graphical Effects\rainSplashImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\rainSplashImg.xnb</Output>
+      <Time>2012-06-03T14:18:38+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\DebugTex.png</Source>
+      <Name>Sprite Content\DebugTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\DebugTex.xnb</Output>
+      <Time>2013-05-15T20:13:04+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\col.jpg</Source>
+      <Name>Graphical Effects\circle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\circle.xnb</Output>
+      <Time>2013-04-12T19:02:32+01:00</Time>
+    </Item>
+    <Item>
+      <Source>tileset.png</Source>
+      <Name>tileset</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\tileset.xnb</Output>
+      <Time>2013-04-13T20:59:56+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\blankTex.png</Source>
+      <Name>Graphical Effects\blankTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\blankTex.xnb</Output>
+      <Time>2013-05-11T22:24:18+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\Shadows.bmp</Source>
+      <Name>Sprite Content\Shadows</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\Shadows.xnb</Output>
+      <Time>2013-07-11T21:17:17.0999846+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\Projectiles.png</Source>
+      <Name>Sprite Content\Projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Sprite Content\Projectiles.xnb</Output>
+      <Time>2013-08-01T23:29:31.0698955+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\tiles.xml</Source>
+      <Name>Object Databases\tiles</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\tiles.xnb</Output>
+      <Time>2013-04-13T18:18:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\CharacterSprites.xml</Source>
+      <Name>Object Databases\CharacterSprites</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\CharacterSprites.xnb</Output>
+      <Time>2012-07-26T21:32:36+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\UISpriteParser.xml</Source>
+      <Name>Object Databases\UISpriteParser</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\UISpriteParser.xnb</Output>
+      <Time>2013-08-07T14:06:23.5970401+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\Effects\EffectSpriteParser.xml</Source>
+      <Name>Object Databases\Effects\EffectSpriteParser</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\Effects\EffectSpriteParser.xnb</Output>
+      <Time>2013-07-16T23:22:32.1641303+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\UIWindowSpritesParser.xml</Source>
+      <Name>Object Databases\UIWindowSpritesParser</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\UIWindowSpritesParser.xnb</Output>
+      <Time>2012-07-26T22:32:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\RainSplash.xml</Source>
+      <Name>Graphical Effects\RainSplash</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\RainSplash.xnb</Output>
+      <Time>2012-07-26T22:26:24+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\PlayerData.xml</Source>
+      <Name>Object Databases\PlayerData</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\PlayerData.xnb</Output>
+      <Time>2012-10-24T17:03:12+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\DebugSpriteParser.xml</Source>
+      <Name>Object Databases\DebugSpriteParser</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\DebugSpriteParser.xnb</Output>
+      <Time>2013-07-11T21:12:13.8336505+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\ShadowSprites.xml</Source>
+      <Name>Object Databases\ShadowSprites</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\ShadowSprites.xnb</Output>
+      <Time>2013-07-11T21:42:11.8394216+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Object Databases\ParticleSprites.xml</Source>
+      <Name>Object Databases\ParticleSprites</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Object Databases\ParticleSprites.xnb</Output>
+      <Time>2013-07-30T23:14:52.5708701+01:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>Font1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Font1.xnb</Output>
+      <Time>2013-08-06T19:58:07.1649557+01:00</Time>
+    </Item>
+    <Item>
+      <Source>CinematicFont.spritefont</Source>
+      <Name>CinematicFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\CinematicFont.xnb</Output>
+      <Time>2013-08-07T13:49:13.7021335+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\sunEffect.fx</Source>
+      <Name>Graphical Effects\Effect Files\sunEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\sunEffect.xnb</Output>
+      <Time>2013-08-01T21:30:44.7562936+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\fogEffect.fx</Source>
+      <Name>Graphical Effects\Effect Files\fogEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\fogEffect.xnb</Output>
+      <Time>2013-07-27T19:06:15.7464257+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\gBufferWrite.fx</Source>
+      <Name>Graphical Effects\Effect Files\gBufferWrite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\gBufferWrite.xnb</Output>
+      <Time>2013-04-12T00:58:30+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\RadialFog.fx</Source>
+      <Name>Graphical Effects\Effect Files\RadialFog</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\RadialFog.xnb</Output>
+      <Time>2012-07-22T23:25:02+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\RadialBlur.fx</Source>
+      <Name>Graphical Effects\Effect Files\RadialBlur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\RadialBlur.xnb</Output>
+      <Time>2012-07-23T17:39:22+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\monochromaticEffect.fx</Source>
+      <Name>Graphical Effects\Effect Files\monochromaticEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\monochromaticEffect.xnb</Output>
+      <Time>2012-07-23T17:57:42+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\lightEffect.fx</Source>
+      <Name>Graphical Effects\Effect Files\lightEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\lightEffect.xnb</Output>
+      <Time>2013-04-12T19:04:46+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\lightmapCombine.fx</Source>
+      <Name>Graphical Effects\Effect Files\lightmapCombine</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\lightmapCombine.xnb</Output>
+      <Time>2013-08-03T16:24:33.8404654+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\Shadow.fx</Source>
+      <Name>Graphical Effects\Effect Files\Shadow</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\Shadow.xnb</Output>
+      <Time>2013-07-04T19:36:06.4198376+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\ShadowReduction.fx</Source>
+      <Name>Graphical Effects\Effect Files\ShadowReduction</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\ShadowReduction.xnb</Output>
+      <Time>2013-07-04T19:33:22.9404872+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\Effect Files\NavDraw.fx</Source>
+      <Name>Graphical Effects\Effect Files\NavDraw</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\Graphical Effects\Effect Files\NavDraw.xnb</Output>
+      <Time>2013-07-26T21:44:42.3434845+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1Content\</RootDirectory>
+      <LoggerRootDirectory>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\WindowsGame1_26July\WindowsGame1\WindowsGame1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\WindowsGame1_26July\DataLoader\bin\x86\Debug\DataLoader.dll</Key>
+        <Value>2013-08-10T17:49:53.4176326+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-07-25T16:52:46.3125+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

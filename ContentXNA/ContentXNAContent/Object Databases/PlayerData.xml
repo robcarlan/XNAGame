@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="DataLoader.PlayerLoader">
+		<tileX>2</tileX>
+		<tileY>2</tileY>
+		<offsetX>0</offsetX>
+		<offsetY>0</offsetY>
+
+		<inventory>
+		</inventory>
+
+		<quantity>
+		</quantity>
+	</Asset>
+</XnaContent>

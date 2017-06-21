@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<Asset Type = "System.Collections.Generic.Dictionary[int, Microsoft.Xna.Framework.Rectangle]">
+		<Item>
+			<Key>0</Key>
+			<!-- Smallest Shadow -->
+			<Value>1 0 4 3</Value>
+		</Item>
+
+		<Item>
+			<Key>1</Key>
+			<Value>0 0 32 32</Value>
+		</Item>
+	</Asset>
+</XnaContent>

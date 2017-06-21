@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{11652C1A-1435-42C4-8956-381D332D45C0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MonoGameTest</RootNamespace>
+    <AssemblyName>MonoGameTest</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\WindowsGL\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\WindowsGL\Release\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Abilities\AbilityBase.cs" />
+    <Compile Include="Abilities\AbilityContainer.cs" />
+    <Compile Include="Abilities\Effect.cs" />
+    <Compile Include="Abilities\InventoryManager.cs" />
+    <Compile Include="Abilities\ProjectileAbility.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="Character Components\Brain.cs" />
+    <Compile Include="Character Components\Character.cs" />
+    <Compile Include="Character Components\Combat.cs" />
+    <Compile Include="Character Components\Inventory.cs" />
+    <Compile Include="Character Components\NPC.cs" />
+    <Compile Include="Character Components\PlayerStats.cs" />
+    <Compile Include="Character Components\Pushback.cs" />
+    <Compile Include="Character Components\Stats.cs" />
+    <Compile Include="Character Components\Weapon.cs" />
+    <Compile Include="Constants_Miscs\AnimID.cs" />
+    <Compile Include="Constants_Miscs\CodeFile1.cs" />
+    <Compile Include="Constants_Miscs\Declaration.cs" />
+    <Compile Include="Constants_Miscs\QuadRenderComponent.cs" />
+    <Compile Include="Constants_Miscs\TileID.cs" />
+    <Compile Include="Debug\Debug Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Debug\Debug Form.Designer.cs">
+      <DependentUpon>Debug Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Debug\EffectWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Debug\EffectWindow.Designer.cs">
+      <DependentUpon>EffectWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Debug\LightEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Debug\LightEditor.Designer.cs">
+      <DependentUpon>LightEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Debug\Navmesh_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Debug\Navmesh_Form.Designer.cs">
+      <DependentUpon>Navmesh_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DrawingEffects\DeferredRenderer.cs" />
+    <Compile Include="DrawingEffects\Rain.cs" />
+    <Compile Include="DrawingEffects\Weather.cs" />
+    <Compile Include="Entity Components\Collidable Sprite.cs" />
+    <Compile Include="Entity Components\Doodad.cs" />
+    <Compile Include="Entity Components\Dynamic\Light.cs" />
+    <Compile Include="Entity Components\Dynamic\Particle.cs" />
+    <Compile Include="Entity Components\Dynamic\ParticleEmitter.cs" />
+    <Compile Include="Entity Components\Dynamic\ParticleSystem.cs" />
+    <Compile Include="Entity Components\Item.cs" />
+    <Compile Include="Entity Components\LightArea.cs" />
+    <Compile Include="Entity Components\Projectile.cs" />
+    <Compile Include="Entity Components\ShadowmapResolver.cs" />
+    <Compile Include="Entity Components\Sprite.cs" />
+    <Compile Include="Entity Components\StaticSprite.cs" />
+    <Compile Include="Entity Manager\CharacterTypes.cs" />
+    <Compile Include="Entity Manager\EffectManager.cs" />
+    <Compile Include="Entity Manager\ItemManager.cs" />
+    <Compile Include="Entity Manager\LightManager.cs" />
+    <Compile Include="Entity Manager\objectData.cs" />
+    <Compile Include="Entity Manager\ObjManager.cs" />
+    <Compile Include="Entity Manager\TileManager.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="GameDebug.cs" />
+    <Compile Include="GameLoadSaveContent.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="PostProcessEffects.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Scripts\Test.cs" />
+    <Compile Include="UI Components\consts.cs" />
+    <Compile Include="UI Components\Controls\Control Collection.cs" />
+    <Compile Include="UI Components\Controls\WindowIcon.cs" />
+    <Compile Include="UI Components\FloatingText.cs" />
+    <Compile Include="UI Components\FloatingTextIcon.cs" />
+    <Compile Include="UI Components\Messages.cs" />
+    <Compile Include="UI Components\Text.cs" />
+    <Compile Include="UI Components\Tooltip\AbilityToolTip.cs" />
+    <Compile Include="UI Components\Tooltip\CharacterTooltip.cs" />
+    <Compile Include="UI Components\Tooltip\EquipmentToolTip.cs" />
+    <Compile Include="UI Components\Tooltip\TooltipBase.cs" />
+    <Compile Include="UI Components\UI.cs" />
+    <Compile Include="UI Components\WindowItemTooltip.cs" />
+    <Compile Include="UI Components\Windows\WindowBar.cs" />
+    <Compile Include="UI Components\Windows\WindowBase.cs" />
+    <Compile Include="UI Components\Windows\WindowCharacterStatus.cs" />
+    <Compile Include="UI Components\Windows\WindowItemView.cs" />
+    <Compile Include="UI Components\Windows\WindowMap.cs" />
+    <Compile Include="UI Components\Windows\WindowRegion.cs" />
+    <Compile Include="UI Components\Windows\WindowSpellbook.cs" />
+    <Compile Include="Utility\NavMeshPoly.cs" />
+    <Compile Include="Utility\Quadtree.cs" />
+    <Compile Include="Utility\QuadTreeNode.cs" />
+    <Compile Include="Utility\ScriptEngine.cs" />
+    <Compile Include="Utility\SpriteList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="KeraLua, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Release\KeraLua.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework.Content.Pipeline, Version=4.0.0.0, Culture=neutral, PublicKeyToken=842cf8be1de50553, processorArchitecture=x86" />
+    <Reference Include="NLua, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Release\NLua.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenTK">
+      <HintPath>$(MSBuildExtensionsPath)\..\MonoGame\v3.0\Assemblies\WindowsGL\OpenTK.dll</HintPath>
+    </Reference>
+    <Reference Include="MonoGame.Framework">
+      <HintPath>$(MSBuildExtensionsPath)\..\MonoGame\v3.0\Assemblies\WindowsGL\MonoGame.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Lidgren.Network">
+      <HintPath>$(MSBuildExtensionsPath)\..\MonoGame\v3.0\Assemblies\WindowsGL\Lidgren.Network.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="Tao.Sdl">
+      <HintPath>$(MSBuildExtensionsPath)\..\MonoGame\v3.0\Assemblies\WindowsGL\Tao.Sdl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\..\..\..\..\..\Program Files %28x86%29\MonoGame\v3.0\Assemblies\WindowsGL\SDL.dll">
+      <Link>SDL.dll</Link>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Abilities\EffectSprites.xml" />
+    <Content Include="blast duck.png" />
+    <Content Include="Character Components\Hero.txt" />
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+    <Content Include="Icon.ico" />
+    <Content Include="UI Components\Tooltip\Tooltip.txt" />
+    <Content Include="WindowsGame1.csproj" />
+    <Content Include="WindowsGame1.csproj.user" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClassDiagram2.cd" />
+    <None Include="ClassDiagram3.cd" />
+    <None Include="WindowsGame1.csproj.Debug.cachefile" />
+    <None Include="WindowsGame1.csproj.Release.cachefile" />
+    <None Include="WindowsGame1_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Debug\Debug Form.resx">
+      <DependentUpon>Debug Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Debug\EffectWindow.resx">
+      <DependentUpon>EffectWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Debug\LightEditor.resx">
+      <DependentUpon>LightEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Debug\Navmesh_Form.resx">
+      <DependentUpon>Navmesh_Form.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataLoader\DataLoader.csproj">
+      <Project>{e0006b9d-eee1-4ce0-a532-e4e39b3e6f0c}</Project>
+      <Name>DataLoader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

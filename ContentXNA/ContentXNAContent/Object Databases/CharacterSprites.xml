@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[int, System.Collections.Generic.Dictionary[int, DataLoader.SimpleSpriteListLoader]]">
+		<Item>
+			<Key>
+				0
+			</Key>
+			<Value>
+				<Item>
+					<Key>1</Key>
+					<Value>
+						<spriteRec>1 4 24 28</spriteRec>
+						<numberOfFrames>3</numberOfFrames>
+					</Value>
+				</Item>
+
+				<Item>
+					<Key>2</Key>
+					<Value>
+						<spriteRec>1 68 24 28</spriteRec>
+						<numberOfFrames>3</numberOfFrames>
+					</Value>
+				</Item>
+
+				<Item>
+					<Key>3</Key>
+					<Value>
+						<spriteRec>1 36 24 28</spriteRec>
+						<numberOfFrames>3</numberOfFrames>
+					</Value>
+				</Item>
+
+				<Item>
+					<Key>4</Key>
+					<Value>
+						<spriteRec>1 100 24 28</spriteRec>
+						<numberOfFrames>3</numberOfFrames>
+					</Value>
+				</Item>
+				
+			</Value>
+		</Item>
+		
+		
+		<!--<Item>
+      <Key>chara01_a.walkNorth</Key>
+      <Value>
+        <spriteRec>1 4 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>-->
+
+    <!--<Item>
+      <Key>chara01_a.walkSouth</Key>
+      <Value>
+        <spriteRec>1 68 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>-->
+
+    <!--<Item>
+      <Key>chara01_a.walkEast</Key>
+      <Value>
+        <spriteRec>1 36 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>-->
+
+    <!--<Item>
+      <Key>chara01_a.walkWest</Key>
+      <Value>
+        <spriteRec>1 100 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>-->
+  </Asset>
+</XnaContent>

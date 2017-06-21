@@ -1,0 +1,809 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Scripts.Script" Collapsed="true">
+    <Position X="28.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAEAAAAAQAAAAAQAIIAAQAAAAECEAAAAEAAAA=</HashCode>
+      <FileName>Scripts\Test.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.CharacterEffect" Collapsed="true">
+    <Position X="13.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAgCAAxABIAAEAAAIAEIgAIJQAAFAIAAMABAAAAAAAE=</HashCode>
+      <FileName>Abilities\Effect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.EffectExtended" Collapsed="true">
+    <Position X="13.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAABAAAIIAQAABAAIAAAEAAJAAAEAAAAgAAACAAAA=</HashCode>
+      <FileName>Abilities\Effect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Camera" Collapsed="true">
+    <Position X="28.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jIYACBAAEAAAAgAAACAAAEAQgEACAAQEIAAFgAioAEA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Brain" Collapsed="true">
+    <Position X="26.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAAAAAiAAAAECAAQwACACAAAACAEQAABACCA=</HashCode>
+      <FileName>Character Components\Brain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Combat" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Combat.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.NPC" Collapsed="true">
+    <Position X="0.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAIgAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Components\NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.AnimName" Collapsed="true">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\AnimID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.AnimID" Collapsed="true">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAIgAIAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\AnimID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.AnimNameUI" Collapsed="true">
+    <Position X="23" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABCAIAABEBAEAAIAAAAAAAAAAAAAAAAQAAAgACA=</HashCode>
+      <FileName>Constants_Miscs\AnimID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.AnimNameUIWin" Collapsed="true">
+    <Position X="24.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAMAAAACIACDBCGAAAAQkACEAIQAB0AAiAAAIAkAA=</HashCode>
+      <FileName>Constants_Miscs\AnimID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.IconID" Collapsed="true">
+    <Position X="26.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAgAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\AnimID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.enums" Collapsed="true">
+    <Position X="16" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\CodeFile1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Functions" Collapsed="true">
+    <Position X="23" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgEFgACABAAAAAAiAgAEQAAgMAAAACEABAIIQCIAA=</HashCode>
+      <FileName>Constants_Miscs\CodeFile1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Declaration" Collapsed="true">
+    <Position X="24.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CDQQBCEAIIQAEAIAIBIkUAQIQABAgCIMAAAAAQABAAA=</HashCode>
+      <FileName>Constants_Miscs\Declaration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.QuadRenderComponent" Collapsed="true">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAgAAAAAAAAAAAAAAAAAAAABAAAEAAAAQ=</HashCode>
+      <FileName>Constants_Miscs\QuadRenderComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Debug_Form" Collapsed="true">
+    <Position X="23" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AeAAQECEFCGQkFYAABCEAAACAAoMIAgJIEAgEAAAAE4=</HashCode>
+      <FileName>Debug\Debug Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.EffectWindow" Collapsed="true">
+    <Position X="30" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/xWQAnAEIvAVmlMARoKFgNATAMUwzZOtTfVQs7AIILA=</HashCode>
+      <FileName>Debug\EffectWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Weather" Collapsed="true">
+    <Position X="24.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARABBDIhAGFAACIgACFAABAAECACCUEAAgVCAAOAQAA=</HashCode>
+      <FileName>DrawingEffects\Weather.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Collidable_Sprite" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEBAAAgCgiECAAkACCAQABAAKgDABBAAAgAAAAA=</HashCode>
+      <FileName>Entity Components\Collidable Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Doodad" Collapsed="true">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABABAEAAAAAAAAAAAAAAAQAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Entity Components\Doodad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.PointLight" Collapsed="true">
+    <Position X="5.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgACAAACAAAgAAAAAAAACAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Components\Doodad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.DirectionalLight" Collapsed="true">
+    <Position X="5.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Components\Doodad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.BasicLight" Collapsed="true">
+    <Position X="5.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAEAAAAACgAAAAAAoAAAAAAAACIAAAQAAAAkAgAI=</HashCode>
+      <FileName>Entity Components\Doodad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Item" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAEQAAAiAACIAAAAAAAQAAEAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Entity Components\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Consumable" Collapsed="true">
+    <Position X="8.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAQCAAAAIQAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Components\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.LightArea" Collapsed="true">
+    <Position X="19.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAAAAAAAAAIAABAAAAAAAAAAQAEAIAAAAAACA=</HashCode>
+      <FileName>Entity Components\LightArea.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.ShadowmapResolver" Collapsed="true">
+    <Position X="19.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAABAgAABCAAAAAJQAAAAgAAAAUAEAAAAABIQAQ=</HashCode>
+      <FileName>Entity Components\ShadowmapResolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Sprite" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gCgAAAAgEAAAAAAAAAIAAAACAAAAARAAQAAAAAAAIBA=</HashCode>
+      <FileName>Entity Components\Sprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.StaticSprite" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAQAAAAAAAACAAACAoAAAAAAAVAACAAAAAAAAAkAA=</HashCode>
+      <FileName>Entity Components\StaticSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.ObjManager" Collapsed="true">
+    <Position X="23" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iIoT5omk4kwGJFpAA/yoiRLzoIgMDSDhAQdQgJK+AE8=</HashCode>
+      <FileName>Entity Manager\ObjManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.tile" Collapsed="true">
+    <Position X="16" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAiAJAACIAAAAAAAAAAAAAACAABAAAAgA=</HashCode>
+      <FileName>Entity Manager\TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.TileManager" Collapsed="true">
+    <Position X="21.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CByCFIhAgCQAAAAAgAYQEARSIBSCAAgAQAYhAAyCAkA=</HashCode>
+      <FileName>Entity Manager\TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.TileCell" Collapsed="true">
+    <Position X="17.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAABAAAAAAAEQAAAAAQCAAAoAQAAA=</HashCode>
+      <FileName>Entity Manager\TileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Game1" Collapsed="true">
+    <Position X="24.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>hzdEGVJmDm4ph1EB0WiJhbXqEHqsoBmVNQISzGMXlu0=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Player" Collapsed="true">
+    <Position X="30" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIBgIAAAIABAASAgAAAQAAAACYAAAEAAAAAAACA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.PostProcessEffects" Collapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAA5AgACAQgKUCpEDCCqAAAoBAAAAQEUcCTAYwOiEQ=</HashCode>
+      <FileName>PostProcessEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Program" Collapsed="true">
+    <Position X="17.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.FloatingText" Collapsed="true">
+    <Position X="11.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAIACAAAAIAAAAAAIAACAAAAAAAIAAAACAAEAAA=</HashCode>
+      <FileName>UI Components\FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.floatingTextData" Collapsed="true">
+    <Position X="19.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAEAAA=</HashCode>
+      <FileName>UI Components\FloatingText.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.FloatingTextIcon" Collapsed="true">
+    <Position X="11.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\FloatingTextIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Message" Collapsed="true">
+    <Position X="24.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAACAAAgAICAAAACAAAAAABBAAIAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Messages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.AbilityToolTip" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Tooltip\AbilityToolTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.CharacterTooltip" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAACAEIAAAAAAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Tooltip\CharacterTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.EquipmentToolTip" Collapsed="true">
+    <Position X="2.75" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAIAABAAAAAkAAABAA0AAACAAAA=</HashCode>
+      <FileName>UI Components\Tooltip\EquipmentToolTip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.TooltipBase" Collapsed="true">
+    <Position X="1.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAQIACAAAAgMAAAIABAEgAAAMAAoKiEAAAAA=</HashCode>
+      <FileName>UI Components\Tooltip\TooltipBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI" Collapsed="true">
+    <Position X="23" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DkeXHs6NDeP55KxtFbnwneYBKC9NYk8sgyp0xmsnqSc=</HashCode>
+      <FileName>UI Components\UI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Quadtree" Collapsed="true">
+    <Position X="23" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEBRACAAAAACAIkQAAJAAAgARAAAAUAACAkCAA=</HashCode>
+      <FileName>Utility\Quadtree.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.QuadTreeNode" Collapsed="true">
+    <Position X="24.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAQAAQAAAAAgIEAAAAACAAQAAgABAAIAAAQAA=</HashCode>
+      <FileName>Utility\QuadTreeNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.SpriteList" Collapsed="true">
+    <Position X="21.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\SpriteList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.SpriteListSimple" Collapsed="true">
+    <Position X="23" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility\SpriteList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Abilities.AbilityBase" Collapsed="true">
+    <Position X="8.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQYABEABgAAQIAAgAAAAACAEBgAAAAAAAAAMAAA=</HashCode>
+      <FileName>Abilities\AbilityBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Abilities.AbilityData" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAABADAEAAACAAAAAAQAAAA=</HashCode>
+      <FileName>Abilities\AbilityContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Abilities.ProjectileAbility" Collapsed="true">
+    <Position X="8.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Abilities\ProjectileAbility.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.InventoryManager" Collapsed="true">
+    <Position X="30" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAkYAgAAAgkAAjAAAAAEAAAAAAAAAAAAAACgAA=</HashCode>
+      <FileName>Abilities\InventoryManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.CharacterTypes" Collapsed="true">
+    <Position X="16" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAAAAAACCAAAAAAAAAAAAAAAAIAQAAAAAAAAA=</HashCode>
+      <FileName>Entity Manager\CharacterTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.CharacterBank" Collapsed="true">
+    <Position X="30" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAIAAAAoAAAE=</HashCode>
+      <FileName>Entity Manager\CharacterTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.templateCharacter" Collapsed="true">
+    <Position X="24.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAACAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>Entity Manager\CharacterTypes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.EffectManager" Collapsed="true">
+    <Position X="28.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAggAAAAAAAAAAAEAAAAAAABIAAAAAAAAAE=</HashCode>
+      <FileName>Entity Manager\EffectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.ItemManager" Collapsed="true">
+    <Position X="16" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAAAAgAAAAAAAAAAAAAAIAAAAAAABA=</HashCode>
+      <FileName>Entity Manager\ItemManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.LightManager" Collapsed="true">
+    <Position X="23" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQBAXAggCAAAAAAAgAAgDEAgAIICgAJAFEAEABCAJA=</HashCode>
+      <FileName>Entity Manager\LightManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Manager.objectData" Collapsed="true">
+    <Position X="21.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Manager\objectData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Character" Collapsed="true">
+    <Position X="0.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQASAAAAAAAAAAkQAAAAAAAAAKKCAQAAAAAAAAE=</HashCode>
+      <FileName>Character Components\Character.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Inventory" Collapsed="true">
+    <Position X="28.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AGQAAAAAAgAAAAAAAAACAgAAAAAAAACDABAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Inventory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.PlayerStats">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Character Components\PlayerStats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Pushback" Collapsed="true">
+    <Position X="19.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAIAAAAAIAIAIAAAAAAAAAAAAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Pushback.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Stats" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AkEEIAIhABChwAAAGABAIQAEgBMAGJEYRAAKSEgAYBI=</HashCode>
+      <FileName>Character Components\Stats.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Equippable" Collapsed="true">
+    <Position X="12" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Weapon" Collapsed="true">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Character_Components.Armour" Collapsed="true">
+    <Position X="13.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Character Components\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Settings.funcs" Collapsed="true">
+    <Position X="21.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\CodeFile1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.TileID.TileID" Collapsed="true">
+    <Position X="19.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\TileID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Debug.LightEditor" Collapsed="true">
+    <Position X="21.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAMAAAgiACAAENEgYACkgAADAoEYCIAoALBgLCAFABw=</HashCode>
+      <FileName>Debug\LightEditor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Debug.navmeshForm" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/4EKAMAEDKDCAlYCADTkwJATAR1AjcQpgyBbYICAc7A=</HashCode>
+      <FileName>Debug\Navmesh_Form.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.DrawingEffects.DeferredRenderer" Collapsed="true">
+    <Position X="26.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEQBAAAAAIAAYBAAQABQAASgEAAAIAAAAAABAACABA=</HashCode>
+      <FileName>DrawingEffects\DeferredRenderer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.DrawingEffects.Rain" Collapsed="true">
+    <Position X="26.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IxQCSIQCNUTCqIJwmRIwGYQAhhguUgAmKyEDBRBEgIU=</HashCode>
+      <FileName>DrawingEffects\Rain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Components.Dynamic.Light" Collapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAACAAAAAAAAAAAIAAAAAAACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entity Components\Dynamic\Light.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Components.Dynamic.Particle" Collapsed="true">
+    <Position X="24.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAkBAAAAgIBAAAIABAAQBAAQFAAAEAAA=</HashCode>
+      <FileName>Entity Components\Dynamic\Particle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Components.Dynamic.ParticleEmitter" Collapsed="true">
+    <Position X="26.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAgAA4AAQACgMBQAIogABAACgKBAoAAIGSBJgDkAAA=</HashCode>
+      <FileName>Entity Components\Dynamic\ParticleEmitter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Components.Dynamic.ParticleSystem" Collapsed="true">
+    <Position X="28.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgSAAAAAAAAAAgAgAAEAIAAAAAAAQIAAAIQAAABAAAA=</HashCode>
+      <FileName>Entity Components\Dynamic\ParticleSystem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Entity_Components.Projectile" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAoABAIAEAAQgEQAAABAAAQAAAAABQACA=</HashCode>
+      <FileName>Entity Components\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.consts" Collapsed="true">
+    <Position X="19.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgBgAEAEAAAABAhCAAAAAgACFAIAAgAAgoAAAcokAA=</HashCode>
+      <FileName>UI Components\consts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.WindowIcon" Collapsed="true">
+    <Position X="4.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAEAAAACAAAAAAAJAAAAQCQAAAAAgKAEAAQABACAA=</HashCode>
+      <FileName>UI Components\Controls\WindowIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.WindowButton" Collapsed="true">
+    <Position X="4.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAIAJAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Controls\WindowIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.WindowTextButton" Collapsed="true">
+    <Position X="3.5" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Controls\WindowIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.WindowCheckbox" Collapsed="true">
+    <Position X="5.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAgAAAAAAAAAAAAAAAAAAAAAABACAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Controls\WindowIcon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Text" Collapsed="true">
+    <Position X="26.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAgAAAAAAAAAAAAAAJAAIAACAIAAAggIAAAAAAAACAA=</HashCode>
+      <FileName>UI Components\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.MovingText" Collapsed="true">
+    <Position X="26.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.FadingText" Collapsed="true">
+    <Position X="17.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.textBlock" Collapsed="true">
+    <Position X="28.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.textHeader" Collapsed="true">
+    <Position X="30" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI Components\Text.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.WindowItemTooltip" Collapsed="true">
+    <Position X="28.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAEAAAAIIIAAAQAAAAAAABCAAAAAAAAAQA=</HashCode>
+      <FileName>UI Components\WindowItemTooltip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Controls.ControlCollection" Collapsed="true">
+    <Position X="21.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAADAAQAAIAQAAiAIAAAAAACECCA=</HashCode>
+      <FileName>UI Components\Controls\Control Collection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowBar" Collapsed="true">
+    <Position X="26.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAMAAAgAAEAAEAQACQAAAAAAIAEAAAAAAAAg=</HashCode>
+      <FileName>UI Components\Windows\WindowBar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowBase" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DQZAAUEACAAAKUCIBIKAAAFQAAAAAqAAAAAABBKFAAM=</HashCode>
+      <FileName>UI Components\Windows\WindowBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowCharacterStatus" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAFQACQAAEAAACA4CAAAAJEBAAAAAAAABAAAEAAA=</HashCode>
+      <FileName>UI Components\Windows\WindowCharacterStatus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowItemView" Collapsed="true">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAIAAAkAABgQAgBoAAgABQJAEAgASGAAAEIEACAQAYA=</HashCode>
+      <FileName>UI Components\Windows\WindowItemView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowMap" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAAAKAICQACAAAAAEIAgAAQEAAAAgAAAQQCAAAEAAA=</HashCode>
+      <FileName>UI Components\Windows\WindowMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowRegion" Collapsed="true">
+    <Position X="9.75" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgACAAgBAAAABAIABAAAAiCAEAIECgAAAgAAAIAkAA=</HashCode>
+      <FileName>UI Components\Windows\WindowRegion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowItemRegion" Collapsed="true">
+    <Position X="10.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAgAAAAQAgAAAECIACAAgAAAAAAA=</HashCode>
+      <FileName>UI Components\Windows\WindowRegion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.UI_Components.Windows.WindowSpellbook" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAACQAAABCAAAIAAGAAACAAAAAAAgAAAAAEAAA=</HashCode>
+      <FileName>UI Components\Windows\WindowSpellbook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.NavMeshExtraData" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADAAAEAAAAAAAAQESAggAIAQIABAgAAgAAAAADAAgEA=</HashCode>
+      <FileName>Utility\NavMeshPoly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.NavMeshVert" Collapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAAAACAAAAAgAQ=</HashCode>
+      <FileName>Utility\NavMeshPoly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.Segment" Collapsed="true">
+    <Position X="17.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAACAAEAAAAE=</HashCode>
+      <FileName>Utility\NavMeshPoly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.NavMeshCell" Collapsed="true">
+    <Position X="30" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAICRAAiAAAQAQAICBAAgAEJEADiAAgQAAgAhEg=</HashCode>
+      <FileName>Utility\NavMeshPoly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.Navmesh" Collapsed="true">
+    <Position X="28.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAJSBAIBZAAgIAICAAAAEAAQUCAAAAIAAAA=</HashCode>
+      <FileName>Utility\NavMeshPoly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.ScriptEngine" Collapsed="true">
+    <Position X="16" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIABCAAAAAAAAAAgAAQAAIAAAACAAIAAQABAAAAAE=</HashCode>
+      <FileName>Utility\ScriptEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsGame1.Utility.Script" Collapsed="true">
+    <Position X="30" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAUAAAA=</HashCode>
+      <FileName>Utility\ScriptEngine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="WindowsGame1.damageType" Collapsed="true">
+    <Position X="17.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAEAAAA=</HashCode>
+      <FileName>Abilities\Effect.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.direction" Collapsed="true">
+    <Position X="19.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAgAgAQAQAAAAAQAAAAAAAAAAAAAAAABAAAgAA=</HashCode>
+      <FileName>Character Components\NPC.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.flickerValues" Collapsed="true">
+    <Position X="21.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAEAAA=</HashCode>
+      <FileName>Entity Components\Doodad.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.ShadowmapSize" Collapsed="true">
+    <Position X="26.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAQAAAAAAAAAAAAAABAAAAEAAAAAAA=</HashCode>
+      <FileName>Entity Components\ShadowmapResolver.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.quality" Collapsed="true">
+    <Position X="24.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAABAAAAAAAAAAAgAAAAAAEAAAAAAAAAAAAAE=</HashCode>
+      <FileName>UI Components\Tooltip\EquipmentToolTip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.armorSlot" Collapsed="true">
+    <Position X="16" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAgAAAAAAAAEBAAAAIgAAAABgAAAAAIAAAAACAAA=</HashCode>
+      <FileName>UI Components\Tooltip\EquipmentToolTip.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="WindowsGame1.Settings.particleCount" Collapsed="true">
+    <Position X="23" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAAAAAAAAAAAAACAIAAAACAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Constants_Miscs\CodeFile1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

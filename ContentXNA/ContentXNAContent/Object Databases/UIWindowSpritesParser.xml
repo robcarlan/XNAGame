@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[int, DataLoader.SimpleSpriteListLoader]">
+    
+    <Item>
+      <Key>12</Key>
+			<!--wCloseButton-->
+			<Value>
+        <spriteRec>64 0 32 32</spriteRec>
+        <numberOfFrames>2</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>10</Key>
+			<!--wMap-->
+			<Value>
+        <spriteRec>300 0 1600 1200</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>100</Key>
+			<!--iconBlank-->
+			<Value>
+        <spriteRec>224 16 32 32</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    
+    <!-- Draggable sprites -->
+    <Item>
+      <Key>13</Key>
+			<!--wTLDrag-->
+			<Value>
+        <spriteRec>48 96 32 32</spriteRec>
+        <numberOfFrames>6</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>70</Key>
+			<!--wLName-->
+			<Value>
+        <spriteRec>48 48 16 32</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>72</Key>
+			<!--wMName-->
+			<Value>
+        <spriteRec>80 48 16 32</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>71</Key>
+			<!--wRName-->
+			<Value>
+        <spriteRec>112 48 16 32</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <!-- Menu Tile Sprites -->
+    <Item>
+      <Key>68</Key>
+			<!--wBackCtr-->
+			<Value>
+        <spriteRec>0 0 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <Item>
+      <Key>60</Key>
+			<!--wTLCnr-->
+			<Value>
+        <spriteRec>32 32 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>61</Key>
+			<!--wTRCnr-->
+			<Value>
+        <spriteRec>32 96 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <Item>
+      <Key>62</Key>
+			<!--wBLCnr-->
+			<Value>
+        <spriteRec>0 96 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>63</Key>
+			<!--wBRCnr-->
+			<Value>
+        <spriteRec>32 0 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>64</Key>
+			<!--wLSide-->
+			<Value>
+        <spriteRec>16 48 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>65</Key>
+			<!--wRSide-->
+			<Value>
+        <spriteRec>16 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>67</Key>
+			<!--wTSide-->
+			<Value>
+        <spriteRec>0 32 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>66</Key>
+			<!--wDSide-->
+			<Value>
+        <spriteRec>0 64 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <!-- Generic Region Tiles -->
+    <Item>
+      <Key>36</Key>
+			<!--regDSide-->
+			<Value>
+        <spriteRec>32 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>37</Key>
+			<!--regTSide-->
+			<Value>
+        <spriteRec>32 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>38</Key>
+			<!--regBackCtr-->
+			<Value>
+        <spriteRec>32 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>32</Key>
+			<!--regBLCnr-->
+			<Value>
+        <spriteRec>16 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>30</Key>
+			<!--regTLCnr-->
+			<Value>
+        <spriteRec>16 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>34</Key>
+			<!--regLSide-->
+			<Value>
+        <spriteRec>16 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>33</Key>
+			<!--regBRCnr-->
+			<Value>
+        <spriteRec>48 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>31</Key>
+			<!--regTRCnr-->
+			<Value>
+        <spriteRec>48 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>35</Key>
+			<!--regRSide-->
+			<Value>
+        <spriteRec>48 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <!-- Map Region Tiles -->
+    <Item>
+      <Key>46</Key>
+			<!--mapDSide-->
+			<Value>
+        <spriteRec>96 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>47</Key>
+			<!--mapTSide-->
+			<Value>
+        <spriteRec>96 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+			<Key>48</Key>
+			<!--mapBackCtr-->
+      <Value>
+        <spriteRec>96 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>42</Key>
+			<!--mapBLCnr-->
+			<Value>
+        <spriteRec>80 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>40</Key>
+			<!--mapTLCnr-->
+			<Value>
+        <spriteRec>80 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>44</Key>
+			<!--mapLSide-->
+			<Value>
+        <spriteRec>80 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>43</Key>
+			<!--mapBRCnr-->
+			<Value>
+        <spriteRec>112 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>41</Key>
+			<!--mapTRCnr-->
+			<Value>
+        <spriteRec>112 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>45</Key>
+			<!--mapRSide-->
+			<Value>
+        <spriteRec>112 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <!-- Selection Region Tiles -->
+    <Item>
+      <Key>56</Key>
+			<!--selDSide-->
+			<Value>
+        <spriteRec>160 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>57</Key>
+			<!--selTSide-->
+			<Value>
+        <spriteRec>160 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>58</Key>
+			<!--selBackCtr-->
+			<Value>
+        <spriteRec>160 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>52</Key>
+			<!--selBLCnr-->
+			<Value>
+        <spriteRec>144 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>50</Key>
+			<!--selTLCnr-->
+			<Value>
+        <spriteRec>144 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>54</Key>
+			<!--selLSide-->
+			<Value>
+        <spriteRec>144 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>53</Key>
+			<!--selBRCnr-->
+			<Value>
+        <spriteRec>176 256 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>51</Key>
+			<!--selTRCnr-->
+			<Value>
+        <spriteRec>176 224 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>55</Key>
+			<!--selRSide-->
+			<Value>
+        <spriteRec>176 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <!-- Scroll Bar Sprites -->
+    <Item>
+      <Key>22</Key>
+			<!--scrlUp-->
+			<Value>
+        <spriteRec>208 224 16 16</spriteRec>
+        <numberOfFrames>2</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>23</Key>
+			<!--scrlDown-->
+			<Value>
+        <spriteRec>208 256 16 16</spriteRec>
+        <numberOfFrames>2</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>19</Key>
+			<!--scrlBarTop-->
+			<Value>
+        <spriteRec>240 224 16 4</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>20</Key>
+			<!--scrlBarMid-->
+			<Value>
+        <spriteRec>240 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>21</Key>
+			<!--scrlBarBottom-->
+			<Value>
+        <spriteRec>240 268 16 4</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>24</Key>
+			<!--scrlBack-->
+			<Value>
+        <spriteRec>208 240 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <!-- Text Sprites -->
+    <Item>
+      <Key>11</Key>
+			<!--mapText-->
+			<Value>
+        <spriteRec>144 64 96 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+  </Asset>
+</XnaContent>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8B38350F-1367-4B0E-9F73-7BB3309CDD31}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GameName3</RootNamespace>
+    <AssemblyName>GameName3</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows\Release\</OutputPath>
+    <DefineConstants>TRACE;WINDOWS</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Camera.cs" />
+    <Compile Include="Constants.cs" />
+    <Compile Include="Entities\Components\BaseComponent.cs" />
+    <Compile Include="Entities\Components\Render\LinearAnimationComponent.cs" />
+    <Compile Include="Entities\Components\Render\OscillateSprite.cs" />
+    <Compile Include="Entities\Components\Render\RenderComponent.cs" />
+    <Compile Include="Entities\Components\Render\StaticRenderComponent.cs" />
+    <Compile Include="Entities\Components\Update\InputComponent.cs" />
+    <Compile Include="Entities\Components\Update\UpdateComponent.cs" />
+    <Compile Include="Entities\Entity.cs" />
+    <Compile Include="Entities\GraphicalEntity.cs" />
+    <Compile Include="Entities\Tile.cs" />
+    <Compile Include="Game\Game1.cs" />
+    <Compile Include="Game\GameInput.cs" />
+    <Compile Include="Game\GameLoad.cs" />
+    <Compile Include="Game\GameUpdate.cs" />
+    <Compile Include="Manager\Libraries\DictionaryLibrary.cs" />
+    <Compile Include="Manager\Libraries\IDDictLibrary.cs" />
+    <Compile Include="Manager\Libraries\LibraryBase.cs" />
+    <Compile Include="Manager\Loading\ILoadable.cs" />
+    <Compile Include="Manager\Loading\Loader.cs" />
+    <Compile Include="Manager\ManagerBase.cs" />
+    <Compile Include="Manager\TileManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Render\ComponentRenderer.cs" />
+    <Compile Include="Render\DrawingEffects\DeferredRenderer.cs" />
+    <Compile Include="Render\DrawingEffects\ShadowmapResolver.cs" />
+    <Compile Include="Render\GameRender.cs" />
+    <Compile Include="Render\PostProcessEffects.cs" />
+    <Compile Include="Render\QuadRenderComponent.cs" />
+    <Compile Include="Render\RenderConstants.cs" />
+    <Compile Include="Render\SpriteList.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework, Version=3.1.2.0, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documentation\Areas.txt" />
+    <Content Include="Documentation\Characters.txt" />
+    <Content Include="Documentation\Dialgoue.txt" />
+    <Content Include="Documentation\Equipment.txt" />
+    <Content Include="Documentation\GoodStuff.txt" />
+    <Content Include="Documentation\Map.txt" />
+    <Content Include="Documentation\Talents.txt" />
+    <Content Include="Game.ico" />
+    <Content Include="GameThumbnail.png" />
+    <Content Include="Icon.ico" />
+    <Content Include="Structure.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Content\" />
+    <Folder Include="Entities\Components\Physics\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataLoader\DataLoader.csproj">
+      <Project>{e0006b9d-eee1-4ce0-a532-e4e39b3e6f0c}</Project>
+      <Name>DataLoader</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

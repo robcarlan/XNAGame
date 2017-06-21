@@ -1,0 +1,74 @@
+﻿Good Things in Video Games
+
+Weapon selection similar to Runescape or Dark Souls
+Weapons play differently
+	Spear - large sweep, slow recovery
+	Bow / xBow  - Free aim, QTE similar to Bastion
+	Shield - parry similar to Bastion / Dark Souls
+
+When an enemy is killed:
+	Save their sprite in a final pose, randomly remove pixels from it. These fly upwards,a nd the whol sprite
+		turns a black / blue
+
+Quest Items:
+	Bow, Bomb, Mage
+Teleport Nodes?
+Ghost enemies leave  a trail of their sprite, which graduallly dissapears
+
+No quest handholding
+	-Sidequests are briefly described in the quest log, as well as the current stage of the quest
+Difficult Enemies which patrol large areas
+Rewards are actually valuable - not just monetary / consumables
+Money actually being valuable, end tier items cost large quantities of money
+Upgrading weapons use materials similar to Dark Souls
+NG++++++++
+Difficult side areas - more difficult than last main quest area.
+Early portions of the game open up to reveal new areas with side bosses later in the game (i.e. Mewtwo cave in Pokemon Red)
+Items unlock new areas (Zelda style)
+Pausing in cutscenes
+Working as a team
+	Friendly characters should have things to say
+Menu options - turn off specific features, turn down audio. 
+Quests involving extra characters - they follow the main character, distinct playstyles
+Character gradually changes visually (i.e portrait)
+
+If using xp:
+	types of monsters only yield xp for so many kills
+	encourages everywhere to be explored
+
+AI:
+	Player could leave a 'trail' that dissapears over time
+	npcs can follow this to find the player
+
+Quest Ideas
+	Find the sword of a cool hero from lore
+		the sword is actally pretty average, it was the hero's skill all along!!!!!!
+
+To make the world seem more alive
+	Other players in the wilderness
+	Foraging similar to Red Dead
+		Skills such as herablism, alchemy, mining
+	critters i.e. chickens!
+	Random npcs which follow a plan similar to majoras mask. i.e. tend crops at 7am, go to pub at 6
+
+cloud shadows
+
+TODO
+Object Manager to work with camera
+Stream Content?
+Load object Manager content similar to Tile
+Load Character Function
+
+Then start on the stats system, combat, finish physics
+When adding physics - debug control to draw the collision circles / boxes for each object!
+Abilities - i.e. simple projectiles such as throwing knives
+
+Console commands
+-Create object (item / enemy / particle / doodad / light) at {Point}, {Vec}
+-Draw Collision Boxes
+-Draw TileManager Grid 
+-Draw Tile Data
+
+Leads to AI
+
+Quests / Dialog / Scripting

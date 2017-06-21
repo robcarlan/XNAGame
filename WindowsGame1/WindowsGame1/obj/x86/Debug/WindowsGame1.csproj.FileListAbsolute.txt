@@ -1,0 +1,10 @@
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\Rob\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
+C:\Users\PC\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.csprojResolveAssemblyReference.cache
+C:\Users\PC\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\PC\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\Users\PC\Dropbox\MonoGameTest\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb

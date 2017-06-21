@@ -1,0 +1,11 @@
+﻿structure of the code
+
+Input states, i.e. for casting a spell we want to have vaius methods i.e. aiming in a direction, choosing an aoe target,
+selecting an entity
+Then handing ui input
+
+Abilities and spells
+should be able to handle many variations i.e. projectiles channelling spells direct target spells dot's
+Effects cover a lot of this
+
+//TODO:: How are we handling the Group class in a manager, i.e. active entities, local entities, tile chunk?

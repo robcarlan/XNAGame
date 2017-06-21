@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>00_items.png</Source>
+      <Name>00_items</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\00_items.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>blast duck.jpg</Source>
+      <Name>blast duck</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\blast duck.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>cave.png</Source>
+      <Name>cave</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\cave.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>chara01_a.bmp</Source>
+      <Name>chara01_a</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\chara01_a.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>daySample.bmp</Source>
+      <Name>daySample</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\daySample.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\blankTex.png</Source>
+      <Name>Graphical Effects\blankTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\blankTex.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\col.jpg</Source>
+      <Name>Graphical Effects\col</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\col.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\daySample.bmp</Source>
+      <Name>Graphical Effects\daySample</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\daySample.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rain.png</Source>
+      <Name>Graphical Effects\rain</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\rain.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rain2.png</Source>
+      <Name>Graphical Effects\rain2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\rain2.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Graphical Effects\rainSplashImg.png</Source>
+      <Name>Graphical Effects\rainSplashImg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Graphical Effects\rainSplashImg.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>misc_scenery.png</Source>
+      <Name>misc_scenery</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\misc_scenery.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>sewer_1.png</Source>
+      <Name>sewer_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\sewer_1.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\DebugTex.png</Source>
+      <Name>Sprite Content\DebugTex</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\DebugTex.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\effectSprites.png</Source>
+      <Name>Sprite Content\effectSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\effectSprites.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\itemSprites.png</Source>
+      <Name>Sprite Content\itemSprites</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\itemSprites.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\Particle.png</Source>
+      <Name>Sprite Content\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\Particle.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\ParticleHard.png</Source>
+      <Name>Sprite Content\ParticleHard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\ParticleHard.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprite Content\Projectiles.bmp</Source>
+      <Name>Sprite Content\Projectiles</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\Sprite Content\Projectiles.xnb</Output>
+      <Time>0001-01-01T00:00:00</Time>
+    </Item>
+    <BuildSuccessful>false</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{7B4C1D45-AAC5-435A-A65E-BF08027DE465}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Windows</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNAContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\obj\Windows\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\PC\Dropbox\MonoGameTest\ContentXNA\ContentXNA\bin\Windows\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\MSBuild\MonoGame\v3.0\MonoGameContentProcessors.dll</Key>
+        <Value>2014-04-05T22:56:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-22T21:38:28.2152002+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
