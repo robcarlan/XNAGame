@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="System.Collections.Generic.Dictionary[Microsoft.Xna.Framework.Point, DataLoader.MapData]">
+
+    <Item>
+      <Key>4 4</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>5 4</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>6 4</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>4 5</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>5 5</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+          <Item>
+            <ID>2</ID>
+            <relTilePos>20 30</relTilePos>
+            <zPos>0</zPos>
+            <offset>20 30</offset>
+          </Item>
+        </Doodads>
+
+        <Particles>
+          <Item>
+            <ID>3</ID>
+            <relTilePos>2 2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+          <Item>
+            <ID>1</ID>
+            <relTilePos>2 -2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+          <Item>
+            <ID>1</ID>
+            <relTilePos>4 -2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+          <Item>
+            <ID>2</ID>
+            <relTilePos>0 -2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+          <Item>
+            <ID>1</ID>
+            <relTilePos>-2 -2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+          <Item>
+            <ID>1</ID>
+            <relTilePos>-1 -2</relTilePos>
+            <zPos>0</zPos>
+            <offset>0 0</offset>
+          </Item>
+        </Particles>
+
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>6 5</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>4 6</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>5 6</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+    
+    <Item>
+      <Key>6 6</Key>
+      <Value>
+        <Characters>
+
+        </Characters>
+
+        <Lights>
+
+        </Lights>
+
+        <Doodads>
+
+        </Doodads>
+
+        <Particles>
+
+        </Particles>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "DataLoader.ItemLoader[]">
+
+
+		<Item>
+			<itemSpriteSource>0 0</itemSpriteSource>
+			<ID>0</ID>
+			<itemName>void</itemName>
+			<levelRequirement>0</levelRequirement>
+			<itemValue>0</itemValue>
+			<tradeable>0</tradeable>
+			<description>Empty</description>
+		</Item>
+		
+    <Item>
+        <itemSpriteSource>32 0</itemSpriteSource>
+        <ID>002</ID>
+        <itemName>Bottle</itemName>
+        <levelRequirement>0</levelRequirement>
+        <itemValue>10</itemValue>
+        <tradeable>1</tradeable>
+        <description>A bottle used to contain liquids and ingredients.</description>
+    </Item>
+
+    <Item>
+      <itemSpriteSource>0 16</itemSpriteSource>
+      <ID>001</ID>
+      <itemName>Coins</itemName>
+      <levelRequirement>0</levelRequirement>
+      <itemValue>1</itemValue>
+      <tradeable>1</tradeable>
+      <description>The standard currency.</description>
+    </Item>
+
+  </Asset>
+</XnaContent>

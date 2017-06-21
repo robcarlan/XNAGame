@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "DataLoader.EffectLoader[]">
+
+    <Item>
+      <effectName>Fortify Defense</effectName>
+      <effectID>1</effectID>
+			<description>Physical defense bolstered by 100, Magical defense increased by 50</description>
+			<spriteSource>16 0</spriteSource>
+      <permanent>false</permanent>
+      <stacks>false</stacks>
+      <consumable>false</consumable>
+      <maxStacks>1</maxStacks>
+			<stacksPerUse>1</stacksPerUse>
+      <durationMS>60000</durationMS>
+      <tickSpeed>0</tickSpeed>
+      
+      <attackPowerIncrease>0</attackPowerIncrease>
+      <magicPowerIncrease>0</magicPowerIncrease>
+      <healPowerIncrease>0</healPowerIncrease>
+      <defenseIncrease>100</defenseIncrease>
+      <evadeChanceIncrease>0</evadeChanceIncrease>
+      <magicDefenseIncrease>50</magicDefenseIncrease>
+
+      <hpIncrease>0</hpIncrease>
+      <hpRegenPer5increase>0</hpRegenPer5increase>
+
+      <manaIncrease>0</manaIncrease>
+      <manaPer5Increase>0</manaPer5Increase>
+      <hpMaxIncrease>0</hpMaxIncrease>
+      <manaMaxIncrease>0</manaMaxIncrease>
+
+      <movementSpeedIncrease>0</movementSpeedIncrease>
+
+    </Item>
+
+    <Item>
+      <effectName>Minor Heal</effectName>
+      <effectID>2</effectID>
+			<description></description>
+      <spriteSource>32 0</spriteSource>
+      <permanent>true</permanent>
+      <stacks>false</stacks>
+      <consumable>true</consumable>
+      <maxStacks>1</maxStacks>
+      <stacksPerUse>1</stacksPerUse>
+      <durationMS>0</durationMS>
+      <tickSpeed>0</tickSpeed>
+
+      <attackPowerIncrease>0</attackPowerIncrease>
+      <magicPowerIncrease>0</magicPowerIncrease>
+      <healPowerIncrease>0</healPowerIncrease>
+      <defenseIncrease>0</defenseIncrease>
+      <evadeChanceIncrease>0</evadeChanceIncrease>
+      <magicDefenseIncrease>0</magicDefenseIncrease>
+
+      <hpIncrease>25</hpIncrease>
+      <hpRegenPer5increase>0</hpRegenPer5increase>
+
+      <manaIncrease>0</manaIncrease>
+      <manaPer5Increase>0</manaPer5Increase>
+      <hpMaxIncrease>0</hpMaxIncrease>
+      <manaMaxIncrease>0</manaMaxIncrease>
+
+      <movementSpeedIncrease>0</movementSpeedIncrease>
+
+    </Item>
+
+    <Item>
+      <effectName>Bleed</effectName>
+      <effectID>3</effectID>
+			<description>Bleeding!</description>
+      <spriteSource>48 0</spriteSource>
+      <permanent>false</permanent>
+      <stacks>false</stacks>
+      <consumable>false</consumable>
+      <maxStacks>1</maxStacks>
+      <stacksPerUse>1</stacksPerUse>
+      <durationMS>2000</durationMS>
+      <tickSpeed>100</tickSpeed>
+      
+      <attackPowerIncrease>0</attackPowerIncrease>
+      <magicPowerIncrease>0</magicPowerIncrease>
+      <healPowerIncrease>0</healPowerIncrease>
+      <defenseIncrease>12</defenseIncrease>
+      <evadeChanceIncrease>0</evadeChanceIncrease>
+      <magicDefenseIncrease>0</magicDefenseIncrease>
+
+      <hpIncrease>-1</hpIncrease>
+      <hpRegenPer5increase>0</hpRegenPer5increase>
+
+      <manaIncrease>0</manaIncrease>
+      <manaPer5Increase>0</manaPer5Increase>
+      <hpMaxIncrease>0</hpMaxIncrease>
+      <manaMaxIncrease>0</manaMaxIncrease>
+
+      <movementSpeedIncrease>0</movementSpeedIncrease>
+
+    </Item>
+
+    <Item>
+      <effectName>Demonic Touch</effectName>
+      <effectID>4</effectID>
+			<description>Max HP temporarily decreases, for the benefit of regeneration and mana</description>
+      <spriteSource>0 0</spriteSource>
+      <permanent>false</permanent>
+      <stacks>true</stacks>
+      <consumable>false</consumable>
+      <maxStacks>10</maxStacks>
+      <stacksPerUse>3</stacksPerUse>
+      <durationMS>10000</durationMS>
+      <tickSpeed>1000</tickSpeed>
+
+      <attackPowerIncrease>0</attackPowerIncrease>
+      <magicPowerIncrease>0</magicPowerIncrease>
+      <healPowerIncrease>0</healPowerIncrease>
+      <defenseIncrease>0</defenseIncrease>
+      <evadeChanceIncrease>0</evadeChanceIncrease>
+      <magicDefenseIncrease>0</magicDefenseIncrease>
+
+      <hpIncrease>0</hpIncrease>
+      <hpRegenPer5increase>5</hpRegenPer5increase>
+
+      <manaIncrease>5</manaIncrease>
+      <manaPer5Increase>10000</manaPer5Increase>
+      <hpMaxIncrease>-20</hpMaxIncrease>
+      <manaMaxIncrease>10</manaMaxIncrease>
+
+      <movementSpeedIncrease>0</movementSpeedIncrease>
+
+    </Item>
+
+  </Asset>
+</XnaContent>

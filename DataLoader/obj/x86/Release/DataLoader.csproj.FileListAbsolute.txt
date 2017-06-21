@@ -1,0 +1,102 @@
+E:\WindowsGame1\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1\DataLoader\obj\x86\Release\DataLoader.pdb
+O:\WindowsGame1\DataLoader\bin\x86\Release\DataLoader.dll
+O:\WindowsGame1\DataLoader\bin\x86\Release\DataLoader.pdb
+O:\WindowsGame1\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+O:\WindowsGame1\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+O:\WindowsGame1\DataLoader\obj\x86\Release\DataLoader.dll
+O:\WindowsGame1\DataLoader\obj\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\bin\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\bin\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\obj\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\DataLoader\obj\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.pdb
+E:\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.pdb
+P:\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_16Feb\DataLoader\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.dll
+P:\WindowsGame1_16Feb\DataLoader\obj\x86\Release\DataLoader.pdb
+P:\WindowsGame1_2March\DataLoader\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_2March\DataLoader\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_2March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_2March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_2March\DataLoader\obj\x86\Release\DataLoader.dll
+P:\WindowsGame1_2March\DataLoader\obj\x86\Release\DataLoader.pdb
+E:\WindowsGame1_2March\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_2March\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_2March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_2March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_2March\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1_2March\DataLoader\obj\x86\Release\DataLoader.pdb
+P:\WindowsGame1_7March\DataLoader\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_7March\DataLoader\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_7March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_7March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_7March\DataLoader\obj\x86\Release\DataLoader.dll
+P:\WindowsGame1_7March\DataLoader\obj\x86\Release\DataLoader.pdb
+E:\WindowsGame1_7March\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_7March\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_7March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_7March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_7March\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1_7March\DataLoader\obj\x86\Release\DataLoader.pdb
+E:\WindowsGame1_12March\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_12March\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_12March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_12March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_12March\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1_12March\DataLoader\obj\x86\Release\DataLoader.pdb
+P:\WindowsGame1_12March\DataLoader\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_12March\DataLoader\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_12March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_12March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_12March\DataLoader\obj\x86\Release\DataLoader.dll
+P:\WindowsGame1_12March\DataLoader\obj\x86\Release\DataLoader.pdb
+P:\WindowsGame1_25March\DataLoader\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_25March\DataLoader\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_25March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_25March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_25March\DataLoader\obj\x86\Release\DataLoader.dll
+P:\WindowsGame1_25March\DataLoader\obj\x86\Release\DataLoader.pdb
+E:\WindowsGame1_25March\DataLoader\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_25March\DataLoader\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_25March\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_25March\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_25March\DataLoader\obj\x86\Release\DataLoader.dll
+E:\WindowsGame1_25March\DataLoader\obj\x86\Release\DataLoader.pdb
+I:\WindowsGame1_21July\DataLoader\bin\x86\Release\DataLoader.dll
+I:\WindowsGame1_21July\DataLoader\bin\x86\Release\DataLoader.pdb
+I:\WindowsGame1_21July\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame1_21July\DataLoader\obj\x86\Release\DataLoader.dll
+I:\WindowsGame1_21July\DataLoader\obj\x86\Release\DataLoader.pdb
+I:\WindowsGame1_21July - Copy\DataLoader\bin\x86\Release\DataLoader.dll
+I:\WindowsGame1_21July - Copy\DataLoader\bin\x86\Release\DataLoader.pdb
+I:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\DataLoader.dll
+I:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\DataLoader.pdb
+G:\WindowsGame1_21July - Copy\DataLoader\bin\x86\Release\DataLoader.dll
+G:\WindowsGame1_21July - Copy\DataLoader\bin\x86\Release\DataLoader.pdb
+G:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\DataLoader.csprojResolveAssemblyReference.cache
+G:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\DataLoader.dll
+G:\WindowsGame1_21July - Copy\DataLoader\obj\x86\Release\DataLoader.pdb

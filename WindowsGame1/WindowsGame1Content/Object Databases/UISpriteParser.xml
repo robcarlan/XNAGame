@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[System.String, DataLoader.SpriteListLoader]">
+    <Item>
+      <Key>hpForeground</Key>
+      <Value>
+        <spriteRec>1 4 24 28</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <!-- Menu Icon Sprites -->
+
+    <Item>
+      <Key>bottomRightIcon</Key>
+      <Value>
+        <spriteRec>0 0 48 48</spriteRec>
+        <numberOfFrames>5</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>bottomRightIconClickOverlay</Key>
+      <Value>
+        <spriteRec>240 0 48 48</spriteRec>
+        <numberOfFrames>5</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <!-- Tooltip Sprites -->
+
+    <Item>
+      <Key>TooltipFrameDiagonalTL</Key>
+      <Value>
+        <spriteRec>96 64 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>TooltipFrameDiagonalBR</Key>
+      <Value>
+        <spriteRec>112 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>TooltipFrameDiagonalBL</Key>
+      <Value>
+        <spriteRec>96 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>TooltipFrameDiagonalTR</Key>
+      <Value>
+        <spriteRec>112 64 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    
+    <Item>
+      <Key>TooltipFrameHorizontalD</Key>
+      <Value>
+        <spriteRec>48 64 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>TooltipFrameHorizontalT</Key>
+      <Value>
+        <spriteRec>80 64 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>TooltipFrameVerticalL</Key>
+      <Value>
+        <spriteRec>32 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>TooltipFrameVerticalR</Key>
+      <Value>
+        <spriteRec>64 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>TooltipRectangleFill</Key>
+      <Value>
+        <spriteRec>128 80 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <!-- Cursor Variables -->
+    <Item>
+      <Key>cursorStandard</Key>
+      <Value>
+        <spriteRec>0 112 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>cursorAttack</Key>
+      <Value>
+        <spriteRec>0 112 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <Item>
+      <Key>cursorTarget</Key>
+      <Value>
+        <spriteRec>0 144 32 32</spriteRec>
+        <numberOfFrames>6</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>cursorShop</Key>
+      <Value>
+        <spriteRec>0 112 16 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+
+    <Item>
+      <Key>cursorTalk</Key>
+      <Value>
+        <spriteRec>32 112 32 20</spriteRec>
+        <numberOfFrames>6</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <!-- Nameplate Sprites -->
+    
+    <Item>
+      <Key>healthFill</Key>
+      <Value>
+        <spriteRec>160 64 88 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+    <Item>
+      <Key>healthBackground</Key>
+      <Value>
+        <spriteRec>160 80 88 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>manaFill</Key>
+      <Value>
+        <spriteRec>248 64 88 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>manaBackground</Key>
+      <Value>
+        <spriteRec>248 80 88 16</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+    
+  </Asset>
+</XnaContent>

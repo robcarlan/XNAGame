@@ -1,0 +1,583 @@
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tiles.xnb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+O:\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+O:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\sunEffect.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\fogEffect.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Particles.xnb
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\World\WorldData.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Particles.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\World\WorldData.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain2.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rainSplash.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rainSplashImg.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\sunEffect.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\fogEffect.xnb
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\gBufferWrite.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain2.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rainSplashImg.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Particles.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\World\WorldData.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\RainSplash.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\sunEffect.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\fogEffect.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\gBufferWrite.xnb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\blast duck.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\chara01_a.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\tileset.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\cave.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\sewer.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\daySample.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\UITex.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\itemSprites.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\effectSprites.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\SpellIcons.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\WindowSprites.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\Particle.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Sprite Content\ParticleHard.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rain2.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\rainSplashImg.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\tiles.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\CharacterSprites.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UISpriteParser.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ItemParser.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ConsumableItemLoader.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\ArmourLoader.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Items\WeaponLoader.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectLoader.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Effects\EffectSpriteParser.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\UIWindowSpritesParser.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\Particles.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Object Databases\World\WorldData.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\RainSplash.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Font1.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\sunEffect.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\fogEffect.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\gBufferWrite.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe.manifest
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.application
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.exe
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\WindowsGame1.pdb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.dll
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\DataLoader.pdb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe.manifest
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.application
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\RadialFog.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\RadialBlur.xnb
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1\bin\x86\Release\Content\Graphical Effects\Effect Files\monochromaticEffect.xnb
+I:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+I:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb
+G:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.csprojResolveAssemblyReference.cache
+G:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.exe
+G:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1\obj\x86\Release\WindowsGame1.pdb

@@ -1,0 +1,18 @@
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+O:\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_14Feb\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Documents and Settings\temp\My Documents\Visual Studio 2010\Projects\WindowsGame1_16Feb\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_16Feb\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_2March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_2March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_7March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_7March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_12March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_12March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+E:\WindowsGame1_25March\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Release\ResolveAssemblyReference.cache
+G:\WindowsGame1_21July - Copy\WindowsGame1\WindowsGame1Content\obj\x86\Release\WindowsGame1Content.contentprojResolveAssemblyReference.cache

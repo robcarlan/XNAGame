@@ -1,0 +1,4 @@
+C:\Users\Bob\Documents\Visual Studio 2010\Projects\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+P:\WindowsGame1_25March\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\WindowsGame1_21July\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

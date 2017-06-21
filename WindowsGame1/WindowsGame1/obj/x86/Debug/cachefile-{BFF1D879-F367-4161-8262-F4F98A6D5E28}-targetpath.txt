@@ -1,0 +1,36 @@
+Content\blast duck.xnb
+Content\chara01_a.xnb
+Content\tileset.xnb
+Content\cave.xnb
+Content\sewer.xnb
+Content\Graphical Effects\daySample.xnb
+Content\Sprite Content\UITex.xnb
+Content\Sprite Content\itemSprites.xnb
+Content\Sprite Content\effectSprites.xnb
+Content\Sprite Content\SpellIcons.xnb
+Content\Sprite Content\WindowSprites.xnb
+Content\Sprite Content\Particle.xnb
+Content\Sprite Content\ParticleHard.xnb
+Content\Graphical Effects\rain.xnb
+Content\Graphical Effects\rain2.xnb
+Content\Graphical Effects\rainSplashImg.xnb
+Content\Object Databases\tiles.xnb
+Content\Object Databases\CharacterSprites.xnb
+Content\Object Databases\UISpriteParser.xnb
+Content\Object Databases\Items\ItemParser.xnb
+Content\Object Databases\Items\ConsumableItemLoader.xnb
+Content\Object Databases\Items\ArmourLoader.xnb
+Content\Object Databases\Items\WeaponLoader.xnb
+Content\Object Databases\Effects\EffectLoader.xnb
+Content\Object Databases\Effects\EffectSpriteParser.xnb
+Content\Object Databases\UIWindowSpritesParser.xnb
+Content\Object Databases\Particles.xnb
+Content\Object Databases\World\WorldData.xnb
+Content\Graphical Effects\RainSplash.xnb
+Content\Font1.xnb
+Content\Graphical Effects\Effect Files\sunEffect.xnb
+Content\Graphical Effects\Effect Files\fogEffect.xnb
+Content\Graphical Effects\Effect Files\gBufferWrite.xnb
+Content\Graphical Effects\Effect Files\RadialFog.xnb
+Content\Graphical Effects\Effect Files\RadialBlur.xnb
+Content\Graphical Effects\Effect Files\monochromaticEffect.xnb

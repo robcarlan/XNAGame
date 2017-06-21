@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[System.String, DataLoader.SpriteListLoader]">
+    <Item>
+      <Key>Fortify Defense</Key>
+      <Value>
+        <spriteRec>0 40 40 40</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>Bleed</Key>
+      <Value>
+        <spriteRec>40 0 40 40</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>Default</Key>
+      <Value>
+        <spriteRec>0 0 40 40</spriteRec>
+        <numberOfFrames>1</numberOfFrames>
+      </Value>
+    </Item>
+
+  </Asset>
+</XnaContent>

@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[System.String, DataLoader.SpriteListLoader]">
+    <Item>
+      <Key>chara01_a.walkNorth</Key>
+      <Value>
+        <spriteRec>1 4 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>chara01_a.walkSouth</Key>
+      <Value>
+        <spriteRec>1 68 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>chara01_a.walkEast</Key>
+      <Value>
+        <spriteRec>1 36 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>chara01_a.walkWest</Key>
+      <Value>
+        <spriteRec>1 100 24 28</spriteRec>
+        <numberOfFrames>3</numberOfFrames>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

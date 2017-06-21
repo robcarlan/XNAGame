@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "DataLoader.ConsumableItemLoader[]">
+
+    <Item>
+      <!-- The base components -->
+      <itemSpriteSource>16 0</itemSpriteSource>
+      <ID>1000</ID>
+      <itemName>Bottle of water</itemName>
+      <levelRequirement>0</levelRequirement>
+      <itemValue>10</itemValue>
+      <tradeable>1</tradeable>
+      <description>A bottle containing water. An essential component in most alchemy recipes.</description>
+      
+      <!-- Derived components -->
+			<nextState>0</nextState>
+      <unlimited>1</unlimited>
+      <cooldownSeconds>15</cooldownSeconds>
+      <useEffect>
+        <Item>Fortify Magic</Item>
+        <Item>Life Drain</Item>
+      </useEffect>
+    </Item>
+
+  </Asset>
+</XnaContent>
