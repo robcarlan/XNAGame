@@ -10,8 +10,6 @@ using System.Xml.Serialization;
 using System.Xml;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
-using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Intermediate;
-
 
 namespace WindowsGame1.Debug
 {
@@ -114,12 +112,12 @@ namespace WindowsGame1.Debug
 					itemItr++;
 				}
 
-				//Serialise this data
-				string filePath = Declaration.navmeshDataFolder + key.X + " " + key.Y + ".xml";
-				using (XmlWriter writer = XmlWriter.Create(filePath, settings))
-				{
-					IntermediateSerializer.Serialize(writer, toSerialise, null);
-				}
+				//Serialise this data - removed w monogoame
+				//string filePath = Declaration.navmeshDataFolder + key.X + " " + key.Y + ".xml";
+				//using (XmlWriter writer = XmlWriter.Create(filePath, settings))
+				//{
+				//	IntermediateSerializer.Serialize(writer, toSerialise, null);
+				//}
 			}
 
 			//Apply to game data

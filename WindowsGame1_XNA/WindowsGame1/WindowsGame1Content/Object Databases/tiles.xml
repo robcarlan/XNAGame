@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type ="System.Collections.Generic.Dictionary[int, DataLoader.SimpleSpriteListLoader]" >
+		<Item>
+			<Key>0</Key>
+			<!--None-->
+			<Value>
+				<spriteRec>0 0 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+    <Item>
+      <Key>1</Key>
+			<!--beigeBrick-->
+			<Value>
+				<spriteRec>16 16 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+    </Item>
+
+    <Item>
+      <Key>2</Key>
+			<!--greenBrick-->
+			<Value>
+				<spriteRec>16 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+    </Item>
+
+		<Item>
+			<Key>3</Key>
+			<!--waterAnimated-->
+			<Value>
+				<spriteRec>48 128 16 16</spriteRec>
+				<numberOfFrames>17</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>4</Key>
+			<!--grassPebbles-->
+			<Value>
+				<spriteRec>64 16 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>5</Key>
+			<!--grassMudCornerINTL-->
+			<Value>
+				<spriteRec>96 16 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>6</Key>
+			<!--grassMudCornerINBR-->
+			<Value>
+				<spriteRec>128 16 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>7</Key>
+			<!--grassMudCornerINBL-->
+			<Value>
+				<spriteRec>80 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>8</Key>
+			<!--grassMudCornerINTR-->
+			<Value>
+				<spriteRec>112 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>9</Key>
+			<!--grass-->
+			<Value>
+				<spriteRec>48 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>10</Key>
+			<!--grassStoneStepsDown-->
+			<Value>
+				<spriteRec>64 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>11</Key>
+			<!--grassFlowerVariant1-->
+			<Value>
+				<spriteRec>96 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>12</Key>
+			<!--grassFlowerVariant2-->
+			<Value>
+				<spriteRec>128 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>13</Key>
+			<!--grassMudCornerOutTL-->
+			<Value>
+				<spriteRec>144 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>14</Key>
+			<!--grassMudCornerOutTR-->
+			<Value>
+				<spriteRec>160 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>15</Key>
+			<!--grassMudCornerOutBL-->
+			<Value>
+				<spriteRec>144 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>16</Key>
+			<!--grassMudCornerOutBR-->
+			<Value>
+				<spriteRec>160 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+
+		<Item>
+			<Key>17</Key>
+			<!--grassMudSideDown-->
+			<Value>
+				<spriteRec>176 32 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>18</Key>
+			<!--grassMudSideUp-->
+			<Value>
+				<spriteRec>176 48 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>19</Key>
+			<!--grassMudSideRight-->
+			<Value>
+				<spriteRec>144 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>20</Key>
+			<!--grassMudSideLeft-->
+			<Value>
+				<spriteRec>160 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>21</Key>
+			<!--mudVariant1-->
+			<Value>
+				<spriteRec>176 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>22</Key>
+			<!--mudVariant2-->
+			<Value>
+				<spriteRec>96 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>23</Key>
+			<!--mudVariant3-->
+			<Value>
+				<spriteRec>112 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>24</Key>
+			<!--grassStonePathTransitionDown-->
+			<Value>
+				<spriteRec>48 64 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>25</Key>
+			<!--grassStonePathTransitionRight-->
+			<Value>
+				<spriteRec>32 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>26</Key>
+			<!--grassStonePathTransitionLeft-->
+			<Value>
+				<spriteRec>64 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>27</Key>
+			<!--grassStonePathTransitionUp-->
+			<Value>
+				<spriteRec>48 96 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>28</Key>
+			<!--stonePath-->
+			<Value>
+				<spriteRec>48 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>29</Key>
+			<!--grassDenseGrassCornerInTL-->
+			<Value>
+				<spriteRec>96 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>30</Key>
+			<!--grassDenseGrassCornerInTR-->
+			<Value>
+				<spriteRec>128 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>31</Key>
+			<!--grassDenseGrassCornerInBL-->
+			<Value>
+				<spriteRec>96 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>32</Key>
+			<!--grassDenseGrassCornerInBR-->
+			<Value>
+				<spriteRec>128 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>33</Key>
+			<!--denseGrass-->
+			<Value>
+				<spriteRec>112 96 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>34</Key>
+			<!--waterCornerInTL-->
+			<Value>
+				<spriteRec>144 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>35</Key>
+			<!--waterCornerInTR-->
+			<Value>
+				<spriteRec>176 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>36</Key>
+			<!--waterCornerInBL-->
+			<Value>
+				<spriteRec>144 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>37</Key>
+			<!--waterCornerInBR-->
+			<Value>
+				<spriteRec>176 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>38</Key>
+			<!--waterSideInLeft-->
+			<Value>
+				<spriteRec>144 96 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>39</Key>
+			<!--waterSideInRight-->
+			<Value>
+				<spriteRec>176 96 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>40</Key>
+			<!--waterSideInUp-->
+			<Value>
+				<spriteRec>160 80 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>41</Key>
+			<!--waterSideInDown-->
+			<Value>
+				<spriteRec>160 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>42</Key>
+			<!--water-->
+			<Value>
+				<spriteRec>160 96 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>43</Key>
+			<!--tallGrassOverlayTLCorner-->
+			<Value>
+				<spriteRec>0 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>44</Key>
+			<!--tallGrassOverlaySideUp-->
+			<Value>
+				<spriteRec>16 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>45</Key>
+			<!--tallGrassOverlayTRCorner-->
+			<Value>
+				<spriteRec>32 112 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>46</Key>
+			<!--tallGrassOverlaySideLeft-->
+			<Value>
+				<spriteRec>0 128 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>47</Key>
+			<!--tallGrassOverlay-->
+			<Value>
+				<spriteRec>16 128 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>48</Key>
+			<!--tallGrassOverlaySideRight-->
+			<Value>
+				<spriteRec>32 128 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+		
+		<Item>
+			<Key>49</Key>
+			<!--tallGrassOverlayCornerBL-->
+			<Value>
+				<spriteRec>0 144 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>50</Key>
+			<!--tallGrassOverlaySideDown-->
+			<Value>
+				<spriteRec>16 144 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>51</Key>
+			<!--tallGrassOverlayCornerBR-->
+			<Value>
+				<spriteRec>32 144 16 16</spriteRec>
+				<numberOfFrames>1</numberOfFrames>
+			</Value>
+		</Item>
+  </Asset>
+</XnaContent>

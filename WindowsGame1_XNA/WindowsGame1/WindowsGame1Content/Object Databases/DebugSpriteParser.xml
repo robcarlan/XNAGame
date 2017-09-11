@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+	<Asset Type = "System.Collections.Generic.Dictionary[int, DataLoader.SimpleSpriteListLoader]">
+
+		<Item>
+			<Key>1</Key>
+			<!-- Large Circle -->
+			<Value>
+				<spriteRec>20 0 64 64</spriteRec>
+				<numberOfFrames>5</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>2</Key>
+			<!-- Large Square -->
+			<Value>
+				<spriteRec>84 0 64 64</spriteRec>
+				<numberOfFrames>5</numberOfFrames>
+			</Value>
+		</Item>
+
+		<Item>
+			<Key>3</Key>
+			<!-- Icon Highlighted -->
+			<Value>
+				<spriteRec>0 10 20 20</spriteRec>
+				<numberOfFrames>5</numberOfFrames>
+			</Value>
+		</Item>
+	</Asset>
+	
+</XnaContent>

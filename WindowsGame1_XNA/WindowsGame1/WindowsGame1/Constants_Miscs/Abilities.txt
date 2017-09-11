@@ -1,0 +1,42 @@
+﻿Abilities should spawn the relative damaging object i.e. a projectile, dot area, hit swing
+Types of spells
+	Projectile, i.e. fireball. Either fixed or following. Multiple projectiles
+	Area based i.e. hellstorm
+	Channelled  spells, streamed spells like lightning 
+	Instant cast, i.e. curses.
+	Spells might need to be cast
+	have cooldown
+
+Type = Instant / Charged / Stream
+Cooldown
+Cost (hp / mana / reagants?)
+Requirements, i.e. needs weapon / shield / bow / staff
+
+QTE's several spells have qte-like hotspots that make the ability much better.
+i.e. holding down a spell and releasing at the exact time it finishes casting will increase damage / reduce mana use
+Firing a bow when it flashes increases damage (similar to bastion)
+Blocking an attack when it is about to hit you will grant temporary immunity / resistance
+
+
+Mage
+Primary : 
+Attacks : 
+	Fireball - A simple fireball that is fired in a straight line. Inflicted enemies will be dealt damage over time. The potency
+		of the firball is increased when fired at the right time. Can be upgraded to increases speed, damage.
+	Frostbolt - similar to fireball, but slows enemies instead of causing a dot.
+	Magic dart - Similar to fireball, but homes in towards a selected target (if none selected, it will select one). 
+		Upgrades will increase the speed and manoeuverability of the dart.
+
+Melee
+Primary : Blocking, which removes damage recieved from a certain direction (until damage threshold reached)
+Attacks : 
+	Swipe - 180 degree attack in front of the warrior
+Misc	:
+	Shield Bash - Pushes enemies away from you. 
+
+Range
+Primary : Rolling, which can be used to quickly get out of the way
+Attacks :
+	Shoot - Charge up a bow shot. When fired at the right time, extra damage is dealt.
+	Throwing Knives - an ultra-quick throwing knife can be thrown to stun the enemy. 
+		Can be upgraded to throw multiple knives, and add poison.

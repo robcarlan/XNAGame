@@ -9,7 +9,6 @@ using System.Text;
 using System.Windows.Forms;
 using System.Xml.Serialization;
 using System.Xml;
-using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Intermediate;
 
 namespace WindowsGame1
 {
@@ -280,16 +279,16 @@ namespace WindowsGame1
 			string fxPath = Declaration.effectLoaderPath;
 			string spritePath = game.fullContentPath + "Object Databases\\Effects\\EffectSpriteParser.xml";
 
-			XmlWriterSettings settings = new XmlWriterSettings();
-			settings.Indent = true;
-			using (XmlWriter writer = XmlWriter.Create(spritePath, settings))
-			{
-				IntermediateSerializer.Serialize(writer, newList, null);
-			}
-			using (XmlWriter writer = XmlWriter.Create(fxPath, settings))
-			{
-				IntermediateSerializer.Serialize(writer, fxList, null);
-			}
+			//XmlWriterSettings settings = new XmlWriterSettings();
+			//settings.Indent = true;
+			//using (XmlWriter writer = XmlWriter.Create(spritePath, settings))
+			//{
+			//	IntermediateSerializer.Serialize(writer, newList, null);
+			//}
+			//using (XmlWriter writer = XmlWriter.Create(fxPath, settings))
+			//{
+			//	IntermediateSerializer.Serialize(writer, fxList, null);
+			//}
 		}
 
 		private void cmdRemoveEffect_Click(object sender, EventArgs e)

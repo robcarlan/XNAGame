@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic">
+  <Asset Type="Generic:Dictionary[short,DataLoader.LightLoader]">
+    <Item>
+      <Key>0</Key>
+      <Value>
+        <radius>5888</radius>
+        <lightName>NormalLight</lightName>
+        <lightColor>FFFF8000</lightColor>
+        <intensity>58</intensity>
+        <ID>0</ID>
+        <baseID>0</baseID>
+        <intensityRange>8</intensityRange>
+        <periodMS>49</periodMS>
+        <flickers>false</flickers>
+        <oscillates>true</oscillates>
+        <nextFlickerIn>0</nextFlickerIn>
+      </Value>
+    </Item>
+    <Item>
+      <Key>1</Key>
+      <Value>
+        <radius>0</radius>
+        <lightName>NewLight</lightName>
+        <lightColor>00000000</lightColor>
+        <intensity>50</intensity>
+        <ID>1</ID>
+        <baseID>0</baseID>
+        <intensityRange>0</intensityRange>
+        <periodMS>0</periodMS>
+        <flickers>false</flickers>
+        <oscillates>false</oscillates>
+        <nextFlickerIn>0</nextFlickerIn>
+      </Value>
+    </Item>
+  </Asset>
+</XnaContent>

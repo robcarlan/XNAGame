@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Xml;
 using System.Windows.Forms;
-using Microsoft.Xna.Framework.Content.Pipeline.Serialization.Intermediate;
 using Microsoft.Xna.Framework;
 using DataLoader;
 
@@ -102,7 +101,8 @@ namespace WindowsGame1.Debug
 			settings.Indent = true;
 			using (XmlWriter writer = XmlWriter.Create(lightPath, settings))
 			{
-				IntermediateSerializer.Serialize(writer, game.ObjectManager.lightLibrary, null);
+                // Removed on conversion to MonoGame
+				//IntermediateSerializer.Serialize(writer, game.ObjectManager.lightLibrary, null);
 			}
 		}
 

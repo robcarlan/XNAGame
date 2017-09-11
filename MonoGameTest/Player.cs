@@ -5,18 +5,16 @@ using System.Text;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Audio;
 using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 using DataLoader;
-using NLua;
 
 namespace WindowsGame1
 {
     public class Player
     {
-		public Lua lua;
+		//public Lua lua;
 
         public int tilePosYIncreased = new int();
         public int tilePosXIncreased = new int();

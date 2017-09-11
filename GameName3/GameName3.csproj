@@ -75,13 +75,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Documentation\Areas.txt" />
-    <Content Include="Documentation\Characters.txt" />
-    <Content Include="Documentation\Dialgoue.txt" />
-    <Content Include="Documentation\Equipment.txt" />
-    <Content Include="Documentation\GoodStuff.txt" />
-    <Content Include="Documentation\Map.txt" />
-    <Content Include="Documentation\Talents.txt" />
     <Content Include="Game.ico" />
     <Content Include="GameThumbnail.png" />
     <Content Include="Icon.ico" />

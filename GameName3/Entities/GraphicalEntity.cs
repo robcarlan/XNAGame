@@ -6,7 +6,7 @@ using System.Text;
 using GameName3.Entities.Components;
 
 namespace GameName3.Entities {
-	class GraphicalEntity : Entity, IRenderable {
+	public class GraphicalEntity : Entity, IRenderable {
 		Components.Render.RenderComponent render;
 		//TODO :: render registers to update? So on updates we can update frame positions sounds good
 		Components.Update.UpdateComponent update;

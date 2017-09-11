@@ -7,16 +7,9 @@ using System.Threading;
 using System.IO;
 using System.Reflection;
 using Microsoft.Xna.Framework;
-using Microsoft.Xna.Framework.Audio;
-using Microsoft.Xna.Framework.Content;
-using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
-using Microsoft.Xna.Framework.Media;
-using Microsoft.Xna.Framework.Net;
-using Microsoft.Xna.Framework.Storage;
 using DataLoader;
-using NLua;
 using WindowsGame1.Utility;
 
 namespace WindowsGame1
@@ -37,8 +30,8 @@ namespace WindowsGame1
 		public ScriptEngine script;
 
 		//Save File
-		StorageContainer saveFile;
-		StorageDevice storage;
+		//StorageContainer saveFile;
+		//StorageDevice storage;
 		IAsyncResult storageSelectResult;
 		Stream saveFileStream;
 		XmlSerializer fileSerializer = new XmlSerializer(typeof(PlayerLoader));
@@ -276,9 +269,9 @@ namespace WindowsGame1
 			state = gameState.Game;
 			keyboardState = prevKeyState;
 			mouseState = prevMouseState;
-			ObjectManager.lightManager.addPointLight(new Color(Color.Orange.R, Color.Orange.G, Color.Orange.B, 100), 0f,
+			ObjectManager.lightManager.addPointLight(new Color((int)Color.Orange.R, Color.Orange.G, Color.Orange.B, 100), 0f,
 				Point.Zero, new Point(490, 312), Vector2.Zero, 600, 2);
-			ObjectManager.lightManager.addPointLight(new Color(Color.Orange.R, Color.Orange.G, Color.Orange.B, 100), 0f,
+			ObjectManager.lightManager.addPointLight(new Color((int)Color.Orange.R, Color.Orange.G, Color.Orange.B, 100), 0f,
 				Point.Zero, new Point(508, 320), Vector2.Zero, 300, 2);
 			//ObjectManager.lightManager.addPointLight(ObjectManager.lightLibrary[0], Point.Zero, new Point(512, 324), Vector2.Zero, 3);
 			ObjectManager.attachLight(999, 1);
@@ -341,44 +334,54 @@ namespace WindowsGame1
 
 		protected bool saveCharacter()
 		{
-			DataLoader.PlayerLoader playerData = new PlayerLoader(player.Hero.tilePos,
-				player.Hero.Offset, player.Hero.inventory.contents,
-				player.Hero.inventory.quantity);
+            return true;
 
-			//Data eventually replaced by a player.getData() method
+            /*
+             * 
+             * 
+             *  Removed after monogame covnersion due to no GamerServices
+             * 
+             * 
+             */
 
-			storageSelectResult = StorageDevice.BeginShowSelector(null, null);
-			storageSelectResult.AsyncWaitHandle.WaitOne();
-			storage = StorageDevice.EndShowSelector(storageSelectResult);
-			storageSelectResult.AsyncWaitHandle.Close();
+			//DataLoader.PlayerLoader playerData = new PlayerLoader(player.Hero.tilePos,
+			//	player.Hero.Offset, player.Hero.inventory.contents,
+			//	player.Hero.inventory.quantity);
 
-			storageSelectResult = storage.BeginOpenContainer("Player Data", null, null);
-			storageSelectResult.AsyncWaitHandle.WaitOne();
+			////Data eventually replaced by a player.getData() method
 
-			saveFile = storage.EndOpenContainer(storageSelectResult);
-			storageSelectResult.AsyncWaitHandle.Close();
+			//storageSelectResult = StorageDevice.BeginShowSelector(null, null);
+			//storageSelectResult.AsyncWaitHandle.WaitOne();
+			//storage = StorageDevice.EndShowSelector(storageSelectResult);
+			//storageSelectResult.AsyncWaitHandle.Close();
 
-			string filename = player.Hero.gameName + ".sav";
-			if (saveFile.FileExists(filename))
-			{
-				if (saveFile.StorageDevice.FreeSpace > MIN_FREE_SPACE)
-					saveFile.DeleteFile(filename);
-				else
-				{
-					UI.addMessage(Functions.WriteDebugLine("Error: could not save file, not enough space. " + saveFile.StorageDevice.FreeSpace
-						+ " free, " + MIN_FREE_SPACE + " required."), Message.msgType.System);
-					return false;
-				}
-			}
+			//storageSelectResult = storage.BeginOpenContainer("Player Data", null, null);
+			//storageSelectResult.AsyncWaitHandle.WaitOne();
 
-			saveFileStream = saveFile.CreateFile(filename);
-			fileSerializer.Serialize(saveFileStream, playerData);
-			saveFileStream.Close();
-			saveFileStream.Dispose();
+			//saveFile = storage.EndOpenContainer(storageSelectResult);
+			//storageSelectResult.AsyncWaitHandle.Close();
 
-			UI.addMessage(Functions.WriteDebugLine("Saved character " + player.Hero.gameName + " to file " +
-				saveFile.StorageDevice.ToString()), Message.msgType.System);
-			return true;
+			//string filename = player.Hero.gameName + ".sav";
+			//if (saveFile.FileExists(filename))
+			//{
+			//	if (saveFile.StorageDevice.FreeSpace > MIN_FREE_SPACE)
+			//		saveFile.DeleteFile(filename);
+			//	else
+			//	{
+			//		UI.addMessage(Functions.WriteDebugLine("Error: could not save file, not enough space. " + saveFile.StorageDevice.FreeSpace
+			//			+ " free, " + MIN_FREE_SPACE + " required."), Message.msgType.System);
+			//		return false;
+			//	}
+			//}
+
+			//saveFileStream = saveFile.CreateFile(filename);
+			//fileSerializer.Serialize(saveFileStream, playerData);
+			//saveFileStream.Close();
+			//saveFileStream.Dispose();
+
+			//UI.addMessage(Functions.WriteDebugLine("Saved character " + player.Hero.gameName + " to file " +
+			//	saveFile.StorageDevice.ToString()), Message.msgType.System);
+			//return true;
 		}
 
 		void Window_ClientSizeChanged(object sender, EventArgs e)

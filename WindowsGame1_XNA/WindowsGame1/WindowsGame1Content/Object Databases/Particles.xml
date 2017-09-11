@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type = "System.Collections.Generic.Dictionary[System.Int16, DataLoader.ParticleLoader]">
+
+    <Item>
+      <Key>001</Key>
+      <Value>
+        <name>Weak Fireball</name>
+        <particleTex>soft</particleTex>
+        <maxParticles>400</maxParticles>
+        <timed>false</timed>
+        <duration>1</duration>
+
+				<!-- Vectors -->
+        <startLife>1 0.5</startLife>
+        <relPosition>0 0</relPosition>
+        <SecPerSpawn>0.05 0.03</SecPerSpawn>
+        <SpawnDirection>0 -1</SpawnDirection>
+        <SpawnNoiseAngle>20 -20</SpawnNoiseAngle>
+        <startScale>25 30</startScale>
+        <endScale>20 18</endScale>
+        <startSpeed>40 30</startSpeed>
+        <endSpeed>20 15</endSpeed>
+        <gravity>2</gravity>
+
+				<!-- Colours -->
+        <startColour1>FFFFFF00</startColour1>
+        <startColour2>FF99AABB</startColour2>
+        <endColour1>00FF0000</endColour1>
+        <endColour2>00FF8C00</endColour2>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>002</Key>
+      <Value>
+        <name>Strong Fireball</name>
+        <particleTex>soft</particleTex>
+        <maxParticles>4000</maxParticles>
+        <timed>false</timed>
+        <duration>1</duration>
+
+				<!-- Vectors -->
+        <startLife>1 0.5</startLife>
+        <relPosition>0 0</relPosition>
+        <SecPerSpawn>0.005 0.003</SecPerSpawn>
+        <SpawnDirection>0 -2</SpawnDirection>
+        <SpawnNoiseAngle>20 -20</SpawnNoiseAngle>
+        <startScale>25 30</startScale>
+        <endScale>20 18</endScale>
+        <startSpeed>40 30</startSpeed>
+        <endSpeed>20 15</endSpeed>
+        <gravity>0</gravity>
+
+        <!-- Colours -->
+        <startColour1>FFFFFF00</startColour1>
+        <startColour2>FF99AABB</startColour2>
+        <endColour1>00FF0000</endColour1>
+        <endColour2>00FF8C00</endColour2>
+      </Value>
+    </Item>
+
+    <Item>
+      <Key>003</Key>
+      <Value>
+        <name>Water</name>
+        <particleTex>soft</particleTex>
+        <maxParticles>5000</maxParticles>
+        <timed>false</timed>
+        <duration>-1</duration>
+
+        <!-- Vectors -->
+        <startLife>5 4</startLife>
+        <relPosition>0 0</relPosition>
+        <SecPerSpawn>0.005 0.01</SecPerSpawn>
+        <SpawnDirection>0 -1</SpawnDirection>
+        <SpawnNoiseAngle>-30 30</SpawnNoiseAngle>
+        <startScale>4 6</startScale>
+        <endScale>2 4</endScale>
+        <startSpeed>250 75</startSpeed>
+        <endSpeed>50 75</endSpeed>
+        <gravity>0</gravity>
+
+        <!-- Colours -->
+        <startColour1>FF0000FF</startColour1>
+        <startColour2>FF0000FF</startColour2>
+        <endColour1>000000FF</endColour1>
+        <endColour2>000000FF</endColour2>
+      </Value>
+    </Item>
+    
+  </Asset>
+</XnaContent>
